@@ -1,11 +1,11 @@
 {
-  "version": "0.5.30",
-  "notes": "켜 둔 동안에도 새 판 확인(1시간마다 · 돌아올 때) + 왼쪽 아래 '새 판 업데이트' 단추 · 멀리서 본 카드 지도에 제목 보이기",
-  "pub_date": "2026-11-16T05:54:22.328Z",
+  "version": "0.5.31",
+  "notes": "휴대폰·태블릿: 카드 위에서 밀면 지도 이동, 카드는 한 번 눌러 고른 뒤 끌어서 옮기기 (고른 카드를 다시 누르면 편집 패널) · 멀리서 본 카드 지도에서 제목이 더 작게까지 보임",
+  "pub_date": "2026-11-16T06:18:31.454Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdmJ4R21Oa1d4eS8wQklEbm1tRlJpNzJFZCtSQjBUWVlNbjNGR2dNa2cwU0NjeXU1dUcrZjVjeFRtQ3owSUZuanBCZWpQOGhJcVltNER2WFgwR2lNdVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODA4NDQ3CWZpbGU6V2VibG9yZV8wLjUuMzBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zMAo4cmRDMlBsSG00bUlmRVEzano5L1JsK2x5RGtKOXVUOTBXbFRsUk5iSzVySFVHTnpPamtRUW9LbnVmd0RkREIxZDY1Skd4a01DM003Vk16V0F0eTZDdz09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.30/Weblore_0.5.30_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdll4WmpiZUhBd1NhRjVKOUFHT0pOQVJtOTZ4N3VKUk41V24zM2RoVHFLWHJSYUhDMEdLaklyVmxWK25NOEw3b2JWN3hlRlZTbTlueDBHM0xBdGN0Qnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODA5ODk3CWZpbGU6V2VibG9yZV8wLjUuMzFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zMQplTUZwdis2aGhsb0dPTlN0ZExYK2NudU44ZStXemtoVW5hZW1CRTExV2RLRlhNTzhibGxMWEoyQ0hmR1BnbkVrWnZYMVlaWlhKTDg0UFFxc0JQTU5EZz09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.31/Weblore_0.5.31_x64-setup.exe"
     }
   }
 }
