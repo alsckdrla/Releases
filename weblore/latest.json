@@ -1,11 +1,11 @@
 {
-  "version": "0.5.27",
-  "notes": "카드 지도 도구 막대를 작은 '도구' 단추로 접기 · Ctrl + 선 끝 끌기를 빈 곳에 놓으면 선 지우기",
-  "pub_date": "2026-11-16T03:44:44.102Z",
+  "version": "0.5.28",
+  "notes": "GitHub으로 로그인 (코드 넣고 허락하면 끝) · 시놀로지 WebDAV 주소를 서버 주소·포트·폴더 칸으로 · 빈 GitHub 저장소에서도 처음 연결",
+  "pub_date": "2026-11-16T05:04:55.558Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdmY4UXZLcVlkWXJRV3Rza1Y3b3k3dWF3VFFkcmN4dEtvTUNweElaZWhXd04wTU9VSkVsdU5GeUxlSWpZMkRHbFRFcFRmUDZ2dnV5a2tQbHFraWJseEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODAwNjY5CWZpbGU6V2VibG9yZV8wLjUuMjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4yNwp0M1kvakpPNGl1QnRLb2tnTVdhKzY0UDVYclBRKys4c0JuZUFvTG9XU09seEVmZWpCbmFWeGluQWRyWHFGWEZ5QnRTeXZxa3k1RlRDOFNhUHJqWVJDQT09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.27/Weblore_0.5.27_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdlp2WDBEUytxbHlXanNmNytCUzd6S0NqaFFlQkFqRlZ6cENUVGw1RUtCNUd5K2FUZnZjVzhmTWV2VGlXVHRaR2NXYmtNTkN0WVFaZURmZ2czSnAvbGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODA1NDgwCWZpbGU6V2VibG9yZV8wLjUuMjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4yOApVTkZ0ZzBaZ3FGVm96ck5SK1lJZy8yOE9vUU9zK1gzUHk1WEFoRzNXYVRXdDVSRGVQQ29UTEc3MlJsdmdJanY5eklCZWsxNGlhdTN6MEkwdWNPR1NDdz09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.28/Weblore_0.5.28_x64-setup.exe"
     }
   }
 }

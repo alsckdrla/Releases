@@ -1,8 +1,8 @@
 {
-  "version": "0.5.27",
-  "notes": "카드 지도 도구 막대를 작은 '도구' 단추로 접기 · Ctrl + 선 끝 끌기를 빈 곳에 놓으면 선 지우기",
-  "pub_date": "2026-11-16T03:44:44.102Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.27/Weblore_0.5.27_android.apk",
-  "sha256": "8f6ad6edaad23db6d8c0d87d71168e2fb546b7e2318d78fb4c6d2be6c6c89be2",
-  "size": 24887812
+  "version": "0.5.28",
+  "notes": "GitHub으로 로그인 (코드 넣고 허락하면 끝) · 시놀로지 WebDAV 주소를 서버 주소·포트·폴더 칸으로 · 빈 GitHub 저장소에서도 처음 연결",
+  "pub_date": "2026-11-16T05:04:55.558Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.28/Weblore_0.5.28_android.apk",
+  "sha256": "c8b67f7b14237b40dd46c304e543f2121c3c693ebfc6f58b5b69f1a6ddbb7691",
+  "size": 24931844
 }
