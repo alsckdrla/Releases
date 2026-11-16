@@ -1,11 +1,11 @@
 {
-  "version": "0.5.29",
-  "notes": "왼쪽 아래 구름 아이콘으로 바로 보내기 · 저장소 것으로 다시 열기 · 휴대폰 뒤로/앞으로와 뒤로 단추 · 왼쪽 메뉴 숨기기(가로·태블릿·PC)",
-  "pub_date": "2026-11-16T05:43:18.623Z",
+  "version": "0.5.30",
+  "notes": "켜 둔 동안에도 새 판 확인(1시간마다 · 돌아올 때) + 왼쪽 아래 '새 판 업데이트' 단추 · 멀리서 본 카드 지도에 제목 보이기",
+  "pub_date": "2026-11-16T05:54:22.328Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdmJuVFZianQvQzlMV2JzdU1pczNrejV1ZE8zYjQvNTFpeGJzTVZhUDFxdlFMUkhaQmxBbGIrcnEwWjhJRmIyNWEveXVzMFJOYTdRdStNUzRCaXNzbWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODA3Nzg0CWZpbGU6V2VibG9yZV8wLjUuMjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4yOQp3aXp4WFJSNnVzVXVUK0dBdUNrMDVPbVlZRml3QnIwYXIrU3RodnJKSmROaVNWQm5GOHRxbGl0WFJZV0JSTCs2Y09FcWxjZktEMW9LTDlxcTVTbTJEdz09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.29/Weblore_0.5.29_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdmJ4R21Oa1d4eS8wQklEbm1tRlJpNzJFZCtSQjBUWVlNbjNGR2dNa2cwU0NjeXU1dUcrZjVjeFRtQ3owSUZuanBCZWpQOGhJcVltNER2WFgwR2lNdVFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODA4NDQ3CWZpbGU6V2VibG9yZV8wLjUuMzBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zMAo4cmRDMlBsSG00bUlmRVEzano5L1JsK2x5RGtKOXVUOTBXbFRsUk5iSzVySFVHTnpPamtRUW9LbnVmd0RkREIxZDY1Skd4a01DM003Vk16V0F0eTZDdz09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.30/Weblore_0.5.30_x64-setup.exe"
     }
   }
 }
