@@ -1,11 +1,11 @@
 {
-  "version": "0.5.28",
-  "notes": "GitHub으로 로그인 (코드 넣고 허락하면 끝) · 시놀로지 WebDAV 주소를 서버 주소·포트·폴더 칸으로 · 빈 GitHub 저장소에서도 처음 연결",
-  "pub_date": "2026-11-16T05:04:55.558Z",
+  "version": "0.5.29",
+  "notes": "왼쪽 아래 구름 아이콘으로 바로 보내기 · 저장소 것으로 다시 열기 · 휴대폰 뒤로/앞으로와 뒤로 단추 · 왼쪽 메뉴 숨기기(가로·태블릿·PC)",
+  "pub_date": "2026-11-16T05:43:18.623Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdlp2WDBEUytxbHlXanNmNytCUzd6S0NqaFFlQkFqRlZ6cENUVGw1RUtCNUd5K2FUZnZjVzhmTWV2VGlXVHRaR2NXYmtNTkN0WVFaZURmZ2czSnAvbGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODA1NDgwCWZpbGU6V2VibG9yZV8wLjUuMjhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4yOApVTkZ0ZzBaZ3FGVm96ck5SK1lJZy8yOE9vUU9zK1gzUHk1WEFoRzNXYVRXdDVSRGVQQ29UTEc3MlJsdmdJanY5eklCZWsxNGlhdTN6MEkwdWNPR1NDdz09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.28/Weblore_0.5.28_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdmJuVFZianQvQzlMV2JzdU1pczNrejV1ZE8zYjQvNTFpeGJzTVZhUDFxdlFMUkhaQmxBbGIrcnEwWjhJRmIyNWEveXVzMFJOYTdRdStNUzRCaXNzbWdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODA3Nzg0CWZpbGU6V2VibG9yZV8wLjUuMjlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4yOQp3aXp4WFJSNnVzVXVUK0dBdUNrMDVPbVlZRml3QnIwYXIrU3RodnJKSmROaVNWQm5GOHRxbGl0WFJZV0JSTCs2Y09FcWxjZktEMW9LTDlxcTVTbTJEdz09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.29/Weblore_0.5.29_x64-setup.exe"
     }
   }
 }
