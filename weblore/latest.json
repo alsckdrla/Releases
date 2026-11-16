@@ -1,0 +1,11 @@
+{
+  "version": "0.5.25",
+  "notes": "앱 안 업데이트가 들어간 첫 판 · 선 끝 옮기기 · NAS 에서 가져오기 · 여러 기기 합치기 · 기록 정리",
+  "pub_date": "2026-11-16T01:32:43.898Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdll4czZucXJZclZOWGNCeXVnZnRhQUJZK0FjS28wNTM5blZ1c1F0eTJzZ04xR2lLZ014Y1VWTDVadkdDSUJYSXJZTHp6OHl1NmVEazJmRVJpTkJUdWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzkyNzUxCWZpbGU6V2VibG9yZV8wLjUuMjVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4yNQpUNGYvMnl6ZEdITVRKcEdFT1RmaTkvY0M1RjlyTGNrRjkrbmp3TEhjZFhwUW5oTnNDVWdFVkE0Rk83VGtMU3ZrZGxtaU5rcmtiTldEc3d5aUJwNDdDUT09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.25/Weblore_0.5.25_x64-setup.exe"
+    }
+  }
+}
