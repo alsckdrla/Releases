@@ -1,11 +1,11 @@
 {
-  "version": "0.5.32",
-  "notes": "휴대폰·태블릿: 카드를 눌러 고르면 잘린 내용 말풍선 · 빈 곳 두 번 누른 채 끌기 = 선택 박스(카드와 선) · 글 쓰다 뒤로 누르면 취소가 아니라 저장",
-  "pub_date": "2026-11-16T12:25:52.650Z",
+  "version": "0.5.33",
+  "notes": "카드 색 '자동'(종류 색을 따라감) · 종류 이름으로 찾기 · 찾는 동안 지도에서 찾은 카드 표시 · 종류 패널 필터 칸(누르면 지도에서 그 카드로) · 빈 곳 오른쪽 클릭에 찾기 · 멀리서 볼 때도 끌어서 선택",
+  "pub_date": "2026-11-16T19:51:03.612Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdlZVUFhWOUUyQURnL2I1ZXFPZ0JKMG9ld1hTeWZJRlUybm5IdFhOa3N5dTcxZjRCVE12OU5aVU4wTkhScStBY0IrYmtuckdIamhOaXhnU05KT2NVUndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODMxOTM3CWZpbGU6V2VibG9yZV8wLjUuMzJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zMgp2U0RxQk90Rk1CbmM1NGJ0QWo3U0R0WnNNUHV3cjNBaEJsK1lsRWZDV3NpaGJzVXo4SDhReEFGeDJpeExoSzI1MnJZK2dDNmdWRzJmYkR5N2ltTURBdz09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.32/Weblore_0.5.32_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdlhBVTE2ZVRCaFZvNGN3dHhIUU5XQmdKeVZ5Qm05V2hLVU9DbWRndnRtUkd2NDRxY3BQK0loMHJoZWtudnpuY2RUUCtuT2d1WVBGb1ZWaFFYYlpjRnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU4NjQ0CWZpbGU6V2VibG9yZV8wLjUuMzNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zMwpuZW92Y3VPR2RqVTRCT05sWjlXTG5xQ0YwVDNiRy9LU0xwNVZrY1Z2aUZOQW4wYVgzazJKM0lUeDhUaURSOXdkaVBEUHQ0SmFlMWxaajlZam42ZWZEZz09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.33/Weblore_0.5.33_x64-setup.exe"
     }
   }
 }
