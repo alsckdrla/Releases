@@ -1,8 +1,8 @@
 {
-  "version": "0.5.35",
-  "notes": "멀리서 볼 때 카드 누르기 = 고르기, 고른 카드 끌기 = 함께 옮기기 · 보드 칸 옮길 때 칸 사이 세로 줄 · 색 줄에 지금 색 늘 표시",
-  "pub_date": "2026-11-16T20:47:03.128Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.35/Weblore_0.5.35_android.apk",
-  "sha256": "d95d99b38eff3120d40591bdd6de3ed3a61a3b7b8fb368d3500b02fdc88f1983",
-  "size": 24936840
+  "version": "0.5.36",
+  "notes": "합치기를 켠 작품: 기기를 바꿀 때 바로 합치기 (떠날 때 보내고, 돌아올 때 받아서 합침 — PC·휴대폰을 함께 열어 두고 번갈아 써도 둘 다 남음)",
+  "pub_date": "2026-11-16T21:21:18.800Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.36/Weblore_0.5.36_android.apk",
+  "sha256": "957920ae2cd469d8199077380674ba94f6d4428c22abacde3e11c481fa30b323",
+  "size": 24940932
 }
