@@ -1,11 +1,11 @@
 {
-  "version": "0.5.33",
-  "notes": "카드 색 '자동'(종류 색을 따라감) · 종류 이름으로 찾기 · 찾는 동안 지도에서 찾은 카드 표시 · 종류 패널 필터 칸(누르면 지도에서 그 카드로) · 빈 곳 오른쪽 클릭에 찾기 · 멀리서 볼 때도 끌어서 선택",
-  "pub_date": "2026-11-16T19:51:03.612Z",
+  "version": "0.5.34",
+  "notes": "멀리서 볼 때 끌어서 선택하면 카드와 함께 연결선도 골라짐 (고른 선은 굵게)",
+  "pub_date": "2026-11-16T20:05:26.484Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdlhBVTE2ZVRCaFZvNGN3dHhIUU5XQmdKeVZ5Qm05V2hLVU9DbWRndnRtUkd2NDRxY3BQK0loMHJoZWtudnpuY2RUUCtuT2d1WVBGb1ZWaFFYYlpjRnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU4NjQ0CWZpbGU6V2VibG9yZV8wLjUuMzNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zMwpuZW92Y3VPR2RqVTRCT05sWjlXTG5xQ0YwVDNiRy9LU0xwNVZrY1Z2aUZOQW4wYVgzazJKM0lUeDhUaURSOXdkaVBEUHQ0SmFlMWxaajlZam42ZWZEZz09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.33/Weblore_0.5.33_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdlI1RFFwaitlLzZxQkQ2TGxwa082WXl5NTN5eWIrNHVwcnR0OTQ3ZUxrcVRPekU5aDNIWERzaG1ua2hTYzc1aTB6RkFJVktSN2Q0bFh2VHZrZVhTR2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU5NTA1CWZpbGU6V2VibG9yZV8wLjUuMzRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zNApjcDNCM2F5eTdtdzExbjNqUFdMQlJEakFnNzBXOXhKb3pzVmRxTWNZMm14VnB1MGpkM0RlY3VLQTBKcTFSQ1VRMm9qcDI3Y2xhVm5GT1lyY040aWZCdz09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.34/Weblore_0.5.34_x64-setup.exe"
     }
   }
 }

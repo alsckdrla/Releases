@@ -1,8 +1,8 @@
 {
-  "version": "0.5.33",
-  "notes": "카드 색 '자동'(종류 색을 따라감) · 종류 이름으로 찾기 · 찾는 동안 지도에서 찾은 카드 표시 · 종류 패널 필터 칸(누르면 지도에서 그 카드로) · 빈 곳 오른쪽 클릭에 찾기 · 멀리서 볼 때도 끌어서 선택",
-  "pub_date": "2026-11-16T19:51:03.612Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.33/Weblore_0.5.33_android.apk",
-  "sha256": "c60272b9a5befcbacbdea9c46758a6fe3206dd1b493b9ed4857b9aee6b29bad6",
+  "version": "0.5.34",
+  "notes": "멀리서 볼 때 끌어서 선택하면 카드와 함께 연결선도 골라짐 (고른 선은 굵게)",
+  "pub_date": "2026-11-16T20:05:26.484Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.34/Weblore_0.5.34_android.apk",
+  "sha256": "abe44937230bceb2601edfa889574074b233b5cf99df37dbe4a7b1fbab3e44f9",
   "size": 24936840
 }
