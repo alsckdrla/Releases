@@ -1,11 +1,11 @@
 {
-  "version": "0.5.26",
-  "notes": "안드로이드 앱 첫 배포 · 저장소 고르기(NAS 폴더·WebDAV·GitHub) · 손가락 조작 · 선 여러 개 한꺼번에 옮기기·지우기 · 나무 정렬 부모 자리 바꿀 때 화면 출렁임 고침",
-  "pub_date": "2026-11-16T03:28:56.207Z",
+  "version": "0.5.27",
+  "notes": "카드 지도 도구 막대를 작은 '도구' 단추로 접기 · Ctrl + 선 끝 끌기를 빈 곳에 놓으면 선 지우기",
+  "pub_date": "2026-11-16T03:44:44.102Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdlFPNkxFaGhHdkVVM2lZODl3dkRaSnhLTFRtL2toN0NQUjBmZjY0Wkp0SXlRK1luTG9wVjV2UjFTK3pHN0FhSTFRRFRkZHAxRXFtVHJKSU40ZGRHdEEwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0Nzk5NzE5CWZpbGU6V2VibG9yZV8wLjUuMjZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4yNgpTNWFrUEtldVViMnYvR3Q3SnJrMk8zSVRJQitSbDhtN2I4MFFGOWwrUTdRWWpxU0VFY0VRekxXa2xGcjlWcHRtWWtpeDJDZEZybnFWUUFkeVR4QjJEQT09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.26/Weblore_0.5.26_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdmY4UXZLcVlkWXJRV3Rza1Y3b3k3dWF3VFFkcmN4dEtvTUNweElaZWhXd04wTU9VSkVsdU5GeUxlSWpZMkRHbFRFcFRmUDZ2dnV5a2tQbHFraWJseEFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODAwNjY5CWZpbGU6V2VibG9yZV8wLjUuMjdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4yNwp0M1kvakpPNGl1QnRLb2tnTVdhKzY0UDVYclBRKys4c0JuZUFvTG9XU09seEVmZWpCbmFWeGluQWRyWHFGWEZ5QnRTeXZxa3k1RlRDOFNhUHJqWVJDQT09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.27/Weblore_0.5.27_x64-setup.exe"
     }
   }
 }

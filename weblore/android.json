@@ -1,8 +1,8 @@
 {
-  "version": "0.5.26",
-  "notes": "안드로이드 앱 첫 배포 · 저장소 고르기(NAS 폴더·WebDAV·GitHub) · 손가락 조작 · 선 여러 개 한꺼번에 옮기기·지우기 · 나무 정렬 부모 자리 바꿀 때 화면 출렁임 고침",
-  "pub_date": "2026-11-16T03:28:56.207Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.26/Weblore_0.5.26_android.apk",
-  "sha256": "33354e30109693215b1a592b785902c0dd94a753589a0064778b20c59e4f2017",
-  "size": 24887816
+  "version": "0.5.27",
+  "notes": "카드 지도 도구 막대를 작은 '도구' 단추로 접기 · Ctrl + 선 끝 끌기를 빈 곳에 놓으면 선 지우기",
+  "pub_date": "2026-11-16T03:44:44.102Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.27/Weblore_0.5.27_android.apk",
+  "sha256": "8f6ad6edaad23db6d8c0d87d71168e2fb546b7e2318d78fb4c6d2be6c6c89be2",
+  "size": 24887812
 }
