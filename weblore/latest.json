@@ -1,11 +1,11 @@
 {
-  "version": "0.5.31",
-  "notes": "휴대폰·태블릿: 카드 위에서 밀면 지도 이동, 카드는 한 번 눌러 고른 뒤 끌어서 옮기기 (고른 카드를 다시 누르면 편집 패널) · 멀리서 본 카드 지도에서 제목이 더 작게까지 보임",
-  "pub_date": "2026-11-16T06:18:31.454Z",
+  "version": "0.5.32",
+  "notes": "휴대폰·태블릿: 카드를 눌러 고르면 잘린 내용 말풍선 · 빈 곳 두 번 누른 채 끌기 = 선택 박스(카드와 선) · 글 쓰다 뒤로 누르면 취소가 아니라 저장",
+  "pub_date": "2026-11-16T12:25:52.650Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdll4WmpiZUhBd1NhRjVKOUFHT0pOQVJtOTZ4N3VKUk41V24zM2RoVHFLWHJSYUhDMEdLaklyVmxWK25NOEw3b2JWN3hlRlZTbTlueDBHM0xBdGN0Qnd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODA5ODk3CWZpbGU6V2VibG9yZV8wLjUuMzFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zMQplTUZwdis2aGhsb0dPTlN0ZExYK2NudU44ZStXemtoVW5hZW1CRTExV2RLRlhNTzhibGxMWEoyQ0hmR1BnbkVrWnZYMVlaWlhKTDg0UFFxc0JQTU5EZz09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.31/Weblore_0.5.31_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdlZVUFhWOUUyQURnL2I1ZXFPZ0JKMG9ld1hTeWZJRlUybm5IdFhOa3N5dTcxZjRCVE12OU5aVU4wTkhScStBY0IrYmtuckdIamhOaXhnU05KT2NVUndJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODMxOTM3CWZpbGU6V2VibG9yZV8wLjUuMzJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zMgp2U0RxQk90Rk1CbmM1NGJ0QWo3U0R0WnNNUHV3cjNBaEJsK1lsRWZDV3NpaGJzVXo4SDhReEFGeDJpeExoSzI1MnJZK2dDNmdWRzJmYkR5N2ltTURBdz09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.32/Weblore_0.5.32_x64-setup.exe"
     }
   }
 }

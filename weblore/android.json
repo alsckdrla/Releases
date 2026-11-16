@@ -1,8 +1,8 @@
 {
-  "version": "0.5.31",
-  "notes": "휴대폰·태블릿: 카드 위에서 밀면 지도 이동, 카드는 한 번 눌러 고른 뒤 끌어서 옮기기 (고른 카드를 다시 누르면 편집 패널) · 멀리서 본 카드 지도에서 제목이 더 작게까지 보임",
-  "pub_date": "2026-11-16T06:18:31.454Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.31/Weblore_0.5.31_android.apk",
-  "sha256": "ec98dfa411d852e29a265682fe04b78b191e2e6fa6d0897e1bdcb36d28b6028f",
-  "size": 24936836
+  "version": "0.5.32",
+  "notes": "휴대폰·태블릿: 카드를 눌러 고르면 잘린 내용 말풍선 · 빈 곳 두 번 누른 채 끌기 = 선택 박스(카드와 선) · 글 쓰다 뒤로 누르면 취소가 아니라 저장",
+  "pub_date": "2026-11-16T12:25:52.650Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.32/Weblore_0.5.32_android.apk",
+  "sha256": "3ce1ae3c28df122b6f5b5305fc3ee20f9bd9badda94052342669cec5f294d52b",
+  "size": 24936832
 }
