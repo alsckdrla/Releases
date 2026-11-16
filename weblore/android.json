@@ -1,8 +1,8 @@
 {
-  "version": "0.5.34",
-  "notes": "멀리서 볼 때 끌어서 선택하면 카드와 함께 연결선도 골라짐 (고른 선은 굵게)",
-  "pub_date": "2026-11-16T20:05:26.484Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.34/Weblore_0.5.34_android.apk",
-  "sha256": "abe44937230bceb2601edfa889574074b233b5cf99df37dbe4a7b1fbab3e44f9",
+  "version": "0.5.35",
+  "notes": "멀리서 볼 때 카드 누르기 = 고르기, 고른 카드 끌기 = 함께 옮기기 · 보드 칸 옮길 때 칸 사이 세로 줄 · 색 줄에 지금 색 늘 표시",
+  "pub_date": "2026-11-16T20:47:03.128Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.35/Weblore_0.5.35_android.apk",
+  "sha256": "d95d99b38eff3120d40591bdd6de3ed3a61a3b7b8fb368d3500b02fdc88f1983",
   "size": 24936840
 }

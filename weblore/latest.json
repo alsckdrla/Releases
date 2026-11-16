@@ -1,11 +1,11 @@
 {
-  "version": "0.5.34",
-  "notes": "멀리서 볼 때 끌어서 선택하면 카드와 함께 연결선도 골라짐 (고른 선은 굵게)",
-  "pub_date": "2026-11-16T20:05:26.484Z",
+  "version": "0.5.35",
+  "notes": "멀리서 볼 때 카드 누르기 = 고르기, 고른 카드 끌기 = 함께 옮기기 · 보드 칸 옮길 때 칸 사이 세로 줄 · 색 줄에 지금 색 늘 표시",
+  "pub_date": "2026-11-16T20:47:03.128Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdlI1RFFwaitlLzZxQkQ2TGxwa082WXl5NTN5eWIrNHVwcnR0OTQ3ZUxrcVRPekU5aDNIWERzaG1ua2hTYzc1aTB6RkFJVktSN2Q0bFh2VHZrZVhTR2dBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODU5NTA1CWZpbGU6V2VibG9yZV8wLjUuMzRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zNApjcDNCM2F5eTdtdzExbjNqUFdMQlJEakFnNzBXOXhKb3pzVmRxTWNZMm14VnB1MGpkM0RlY3VLQTBKcTFSQ1VRMm9qcDI3Y2xhVm5GT1lyY040aWZCdz09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.34/Weblore_0.5.34_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdlRIL0FKR2tNZWZUY3pmMU1yRncwNURYMnd1RUZlUWIzUi9VMHNXRFlkMGZIK21SK3o3OWdZRC9DRWdUbzVGbUpOcmhwQUhNMXNQS3I5aVk1NE0reEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODYyMDAzCWZpbGU6V2VibG9yZV8wLjUuMzVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zNQpkVlpPRjN4cnZ3U2tnZU9BUFdXNi96aVZ3d0ZSMm5SNmhOU21Nc2ttOGRHRzZUNWhHZGM2MExRaVVZd1ZIQnlPOGVPNzFBWjIrSElmOVV3MU1tKzZCQT09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.35/Weblore_0.5.35_x64-setup.exe"
     }
   }
 }
