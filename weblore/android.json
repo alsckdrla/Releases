@@ -1,8 +1,8 @@
 {
-  "version": "0.5.39",
-  "notes": "휴대폰 앱: 뒤로가기로 닫을 때 저장소로 보낸 뒤 닫힘 · 다른 앱으로 넘어갈 때도 바로 저장하고 보냄",
-  "pub_date": "2026-11-17T02:11:48.473Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.39/Weblore_0.5.39_android.apk",
-  "sha256": "46041b13ee3463aabd411053c4920218886be14e3025fa574df115a046f469b7",
-  "size": 24956804
+  "version": "0.5.40",
+  "notes": "어두운 테마에서 카드 지도의 카드를 더 밝게 (바탕과 잘 구분되게)",
+  "pub_date": "2026-11-17T02:43:52.959Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.40/Weblore_0.5.40_android.apk",
+  "sha256": "6bae9ff84d215c638fdc7fca7bc1f51dae471591aef0a5d1cc67222dbb493d98",
+  "size": 24956808
 }
