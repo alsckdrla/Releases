@@ -1,8 +1,8 @@
 {
-  "version": "0.5.44",
-  "notes": "고른 여러 카드로 한꺼번에 잇기 (다른 카드에서 끌어 놓기) · 선 오른쪽 클릭으로 방향 맞추기 (한쪽으로 모으기 · 나가게 · 바꾸기)",
-  "pub_date": "2026-11-17T18:56:07.477Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.44/Weblore_0.5.44_android.apk",
-  "sha256": "6989a239a7e6f73d7800324847533f5abdbf1c293c4b06858bf9172066681fbe",
+  "version": "0.5.45",
+  "notes": "뒤로 · 앞으로 단추를 잘 보이게 · 휴대폰: 두 손가락 두 번 톡톡 = 뒤로, 세 번(또는 세 손가락 톡) = 앞으로",
+  "pub_date": "2026-11-17T19:26:57.315Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.45/Weblore_0.5.45_android.apk",
+  "sha256": "087d47777a1981b2875bc0fff6ef025ed4f0c93d91061acd806f0fe85bc58137",
   "size": 24964996
 }

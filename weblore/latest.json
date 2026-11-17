@@ -1,11 +1,11 @@
 {
-  "version": "0.5.44",
-  "notes": "고른 여러 카드로 한꺼번에 잇기 (다른 카드에서 끌어 놓기) · 선 오른쪽 클릭으로 방향 맞추기 (한쪽으로 모으기 · 나가게 · 바꾸기)",
-  "pub_date": "2026-11-17T18:56:07.477Z",
+  "version": "0.5.45",
+  "notes": "뒤로 · 앞으로 단추를 잘 보이게 · 휴대폰: 두 손가락 두 번 톡톡 = 뒤로, 세 번(또는 세 손가락 톡) = 앞으로",
+  "pub_date": "2026-11-17T19:26:57.315Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdllhTGhFYmxtbzN1cGlGV2ZNS3pHVFdsQ09WRGdNTTNnM2dxaC84Z2VjQXN2Y1AzYWVCZWNja0ZZTXJNRFQyTFNCTDZObzIvSEZpeTlKUXBtRGlrUGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQxNzQ4CWZpbGU6V2VibG9yZV8wLjUuNDRfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS40NAp6dDIwUG9qRUF2NThjaENvbUhyV3N4VDFNNUhSOVZIOUtnTVpXMXR0SG1JajZHMGZoM2F2SzNHVE1uQmM3dGdpME5nV0hCUktnNmh6MWZtNzdTUGlEZz09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.44/Weblore_0.5.44_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdmFzSG1VSFVFdVYxZ0hQb0tjQkdIRmRTMEhMelNBbWVKZWVaVEZ6MzFRUUV4bSs3OHQ4N0tFUUxTZmRVemZHV0w0b05pcHRPeGxKemtzazQ2MlJOQlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQzNTk4CWZpbGU6V2VibG9yZV8wLjUuNDVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS40NQpRc0hyN1pwaTdIa1JhRk5UZXoyTlV2NHZsbndERGpCQTB1eFE1ZE92QnhtbGFqUHVxMS82dXZ5bk9qTHEzbk9kUnRKa3Rlc2I0SzlDTlAxa0hoU2RDZz09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.45/Weblore_0.5.45_x64-setup.exe"
     }
   }
 }
