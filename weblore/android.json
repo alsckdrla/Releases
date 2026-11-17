@@ -1,8 +1,8 @@
 {
-  "version": "0.5.42",
-  "notes": "카드 글을 고치다 빈 곳을 누르거나 더블클릭하면 입력이 끝나고 저장됨",
-  "pub_date": "2026-11-17T17:51:56.066Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.42/Weblore_0.5.42_android.apk",
-  "sha256": "21c5b0205d260f3030edf152abaf1f73e04e107b184e3812c9deff041ff20446",
-  "size": 24960896
+  "version": "0.5.43",
+  "notes": "점검 규칙: 작품마다 켜고 끄고 이름 바꾸기 · 새 규칙(빈 속성 · 기한 지남 · 연결 안 됨 · 오래 안 씀) · 인과 연결 추천 · 세팅별 추천 묶음",
+  "pub_date": "2026-11-17T18:44:23.717Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.43/Weblore_0.5.43_android.apk",
+  "sha256": "5d240bafe9e5e27cca09645de716a96a90d04ca28776d8caed3af72be15383da",
+  "size": 24960904
 }

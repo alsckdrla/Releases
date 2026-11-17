@@ -1,11 +1,11 @@
 {
-  "version": "0.5.42",
-  "notes": "카드 글을 고치다 빈 곳을 누르거나 더블클릭하면 입력이 끝나고 저장됨",
-  "pub_date": "2026-11-17T17:51:56.066Z",
+  "version": "0.5.43",
+  "notes": "점검 규칙: 작품마다 켜고 끄고 이름 바꾸기 · 새 규칙(빈 속성 · 기한 지남 · 연결 안 됨 · 오래 안 씀) · 인과 연결 추천 · 세팅별 추천 묶음",
+  "pub_date": "2026-11-17T18:44:23.717Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdmI1MmRYVXNYMExKVncrVDVWbVJUVDFnVVlxNzNDQTF5V3ZhS1dLT1pkVW8vZ3hNWnF3T0NHV3BsVllDWnpQMkM4c3BhL1pDQVVtUFBPaWNnUi9qdEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTM3ODk3CWZpbGU6V2VibG9yZV8wLjUuNDJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS40MgpQSnVzRm1KaFdCOE4wUXN2OHdST1NQbnFKd1F4RDRrd3JvTUFTa0dkK0VBU0NTQXhUSE03aVdxMGJ2Ym14dk81WlNjaDdWWXNnL1dkYm9vYUZuSnhDQT09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.42/Weblore_0.5.42_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdlpmcGRvZEdhOE05N3MvMUxrRmxCaWF3RVMrSXA1ZzQ5WTBoSEcveUlOUURnb01zMUkxLzhHWkF0Qzh2QVI4aVBrY1cvRnQwR0RlSllEU0c0bXdBZVFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQxMDQ1CWZpbGU6V2VibG9yZV8wLjUuNDNfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS40MwptSFJna3piREk1TFBRc2VxSTVnazVmaVJPaGNZQURMbkRGb3Nma2FtcTd1T0JzWGpJVHVlMkpVZ1lGVFFaL2F1LzZTMG5TWXJBdzlwTTg3K1RkeEtDQT09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.43/Weblore_0.5.43_x64-setup.exe"
     }
   }
 }
