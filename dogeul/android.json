@@ -1,9 +1,9 @@
 {
-  "code": 3,
-  "version": "0.1.3",
-  "notes": "모래놀이: 손가락 홈을 실제로 판 것처럼, 조개·불가사리 크기 다양하고 떠난 자리 자국, 모래 밖으로 보내면 쌩 도망, 파도 자국 얼룩, 도글이 발자국 빨리 사라짐",
-  "pub_date": "2026-11-17T06:28:23+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.3/DogleDogle_0.1.3_test.apk",
-  "sha256": "f55b2b6c4fe11c4fc4c88cda73b46930068be9dbf2f64115090493e8fc50729c",
-  "size": 147539184
+  "code": 4,
+  "version": "0.1.4",
+  "notes": "어른 메뉴 → 더보기 → 앱 업데이트: 지금 판 번호와 업데이트 확인 버튼. 모래판 조약돌 무늬 없앰, 두 손가락 지우기 더 잘 지워짐.",
+  "pub_date": "2026-11-17T09:10:38+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.4/DogleDogle_0.1.4_test.apk",
+  "sha256": "84111adbde789a8eafb9a917366b94caa93d10f1758480697835f86d2691b09e",
+  "size": 147541036
 }
