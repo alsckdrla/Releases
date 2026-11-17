@@ -1,9 +1,9 @@
 {
-  "code": 2,
-  "version": "0.1.2",
-  "notes": "첫 테스트 판: 이제부터 앱이 시작 화면에서 새 판을 알려 주고 스스로 업데이트해요.",
-  "pub_date": "2026-11-17T05:07:38+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.2/DogleDogle_0.1.2_test.apk",
-  "sha256": "16483d8d371036751f028ad5cf150087d200f2eef087dc439e592bea1a726a77",
-  "size": 147600370
+  "code": 3,
+  "version": "0.1.3",
+  "notes": "모래놀이: 손가락 홈을 실제로 판 것처럼, 조개·불가사리 크기 다양하고 떠난 자리 자국, 모래 밖으로 보내면 쌩 도망, 파도 자국 얼룩, 도글이 발자국 빨리 사라짐",
+  "pub_date": "2026-11-17T06:28:23+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.3/DogleDogle_0.1.3_test.apk",
+  "sha256": "f55b2b6c4fe11c4fc4c88cda73b46930068be9dbf2f64115090493e8fc50729c",
+  "size": 147539184
 }
