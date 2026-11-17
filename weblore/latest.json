@@ -1,11 +1,11 @@
 {
-  "version": "0.5.37",
-  "notes": "알림 새 모양 · 앱 색에 맞춘 카드와 종류 아이콘, 휴대폰에서 화면 폭을 다 써서 읽기 쉽게",
-  "pub_date": "2026-11-16T21:32:05.712Z",
+  "version": "0.5.38",
+  "notes": "스케치 · 손글씨 (카드 오른쪽 클릭 · 편집 패널 그림 칸) · 휴대폰에서 그림 넣기가 안 되던 문제 고침",
+  "pub_date": "2026-11-17T01:32:15.275Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdlVhd3pqcyswRDhhaTE1TlFoM05IY0VWZE5KMVh0cEJCNVQveXVTMHQyV3YweXlLN2ZzdG5HcDRvaVJiTzViSHozZkhiVlZCbVh2TEVYemdZRFY4L3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODY0NzA2CWZpbGU6V2VibG9yZV8wLjUuMzdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zNwpKeFc0R2paTVhnMkh4UkRlQ2ZIMWt0RWFrbDV0OXhPVExnZTBQQ2RvV1FxcWR3WStYdTQyb29oSTZZaFhuei9Rb3NLMG1CeTgvVkdBN3RvT3Jsd3lBdz09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.37/Weblore_0.5.37_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdllFbmlWMmg0WGRYUXJRZ1ltRGp3NnF6Q0hTRjRnMytZTVJScWlleTlTSThNYlErYzVJR2taZWU0UnR0allqYitpSitkbmJ2TlpaQlhsVEVJZ1Uxa2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODc5MTIwCWZpbGU6V2VibG9yZV8wLjUuMzhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zOApHR0J1QVhQa2czMkRNWjBONktSR2pPeStsem82OS9nN2RaWExFdUVXbmVQWGs5NlpQeHJlNjlDWEhIVXlGd05PaWJuZUhBTUxjbmdvR0tvN3dkTnVEdz09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.38/Weblore_0.5.38_x64-setup.exe"
     }
   }
 }

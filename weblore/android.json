@@ -1,8 +1,8 @@
 {
-  "version": "0.5.37",
-  "notes": "알림 새 모양 · 앱 색에 맞춘 카드와 종류 아이콘, 휴대폰에서 화면 폭을 다 써서 읽기 쉽게",
-  "pub_date": "2026-11-16T21:32:05.712Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.37/Weblore_0.5.37_android.apk",
-  "sha256": "11e72dfa13838f92e9f4b23aa4ff912ad0583f96862854906c01269a30f87ecc",
-  "size": 24940936
+  "version": "0.5.38",
+  "notes": "스케치 · 손글씨 (카드 오른쪽 클릭 · 편집 패널 그림 칸) · 휴대폰에서 그림 넣기가 안 되던 문제 고침",
+  "pub_date": "2026-11-17T01:32:15.275Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.38/Weblore_0.5.38_android.apk",
+  "sha256": "8cbdafca4be03736c63e8e937116eae370764a5e9c3a640efe3038033db1f0ff",
+  "size": 24956808
 }
