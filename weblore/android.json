@@ -1,8 +1,8 @@
 {
-  "version": "0.5.38",
-  "notes": "스케치 · 손글씨 (카드 오른쪽 클릭 · 편집 패널 그림 칸) · 휴대폰에서 그림 넣기가 안 되던 문제 고침",
-  "pub_date": "2026-11-17T01:32:15.275Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.38/Weblore_0.5.38_android.apk",
-  "sha256": "8cbdafca4be03736c63e8e937116eae370764a5e9c3a640efe3038033db1f0ff",
-  "size": 24956808
+  "version": "0.5.39",
+  "notes": "휴대폰 앱: 뒤로가기로 닫을 때 저장소로 보낸 뒤 닫힘 · 다른 앱으로 넘어갈 때도 바로 저장하고 보냄",
+  "pub_date": "2026-11-17T02:11:48.473Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.39/Weblore_0.5.39_android.apk",
+  "sha256": "46041b13ee3463aabd411053c4920218886be14e3025fa574df115a046f469b7",
+  "size": 24956804
 }

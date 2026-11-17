@@ -1,11 +1,11 @@
 {
-  "version": "0.5.38",
-  "notes": "스케치 · 손글씨 (카드 오른쪽 클릭 · 편집 패널 그림 칸) · 휴대폰에서 그림 넣기가 안 되던 문제 고침",
-  "pub_date": "2026-11-17T01:32:15.275Z",
+  "version": "0.5.39",
+  "notes": "휴대폰 앱: 뒤로가기로 닫을 때 저장소로 보낸 뒤 닫힘 · 다른 앱으로 넘어갈 때도 바로 저장하고 보냄",
+  "pub_date": "2026-11-17T02:11:48.473Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdllFbmlWMmg0WGRYUXJRZ1ltRGp3NnF6Q0hTRjRnMytZTVJScWlleTlTSThNYlErYzVJR2taZWU0UnR0allqYitpSitkbmJ2TlpaQlhsVEVJZ1Uxa2c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODc5MTIwCWZpbGU6V2VibG9yZV8wLjUuMzhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zOApHR0J1QVhQa2czMkRNWjBONktSR2pPeStsem82OS9nN2RaWExFdUVXbmVQWGs5NlpQeHJlNjlDWEhIVXlGd05PaWJuZUhBTUxjbmdvR0tvN3dkTnVEdz09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.38/Weblore_0.5.38_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdmN0Mm00VVdZUzhsVURubWQ3UkNKRlRKZEhrMm0vQU9idUVxc0p5ai9JdzcvNzIvTzEzazV2eDk3cVZRZFVWUzBhc3VZSDZsODk3WWdhUFpzZ3JLVVFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0ODgxNDkxCWZpbGU6V2VibG9yZV8wLjUuMzlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS4zOQppd084TlhyWkRZVHNXS0NoNlFuU2J3b2dWSFdpNVNGOWhnY3BtYVkzcGhGOWUxcUdMaTd5SzdhMjA0SU5DWGdRT3pUYk1CbWVFWXBBZXppYXh0M2lEQT09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.39/Weblore_0.5.39_x64-setup.exe"
     }
   }
 }
