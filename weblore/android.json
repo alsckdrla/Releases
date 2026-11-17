@@ -1,8 +1,8 @@
 {
-  "version": "0.5.43",
-  "notes": "점검 규칙: 작품마다 켜고 끄고 이름 바꾸기 · 새 규칙(빈 속성 · 기한 지남 · 연결 안 됨 · 오래 안 씀) · 인과 연결 추천 · 세팅별 추천 묶음",
-  "pub_date": "2026-11-17T18:44:23.717Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.43/Weblore_0.5.43_android.apk",
-  "sha256": "5d240bafe9e5e27cca09645de716a96a90d04ca28776d8caed3af72be15383da",
-  "size": 24960904
+  "version": "0.5.44",
+  "notes": "고른 여러 카드로 한꺼번에 잇기 (다른 카드에서 끌어 놓기) · 선 오른쪽 클릭으로 방향 맞추기 (한쪽으로 모으기 · 나가게 · 바꾸기)",
+  "pub_date": "2026-11-17T18:56:07.477Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.44/Weblore_0.5.44_android.apk",
+  "sha256": "6989a239a7e6f73d7800324847533f5abdbf1c293c4b06858bf9172066681fbe",
+  "size": 24964996
 }
