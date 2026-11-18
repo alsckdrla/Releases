@@ -1,8 +1,8 @@
 {
-  "version": "0.5.50",
-  "notes": "앱 안에서 NAS 서버 열쇠 확인 · 게스트 열쇠 만들기(이 작품 보기만/고치기) · 저장소 종류를 바꾸면 주소 칸 비우기 · 서버 주소 확인",
-  "pub_date": "2026-11-18T07:00:40.340Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.50/Weblore_0.5.50_android.apk",
-  "sha256": "808d3b2aa1a0bdffd2bc1bc7c090ee580016070abd9a9c422bbc6ded530438b5",
-  "size": 25051648
+  "version": "0.5.51",
+  "notes": "안드로이드: 뒤로/앞으로 단추를 위 줄 오른쪽 끝에, 창이 뜨면 왼쪽 메뉴 다시 숨김, 지도 위쪽(도구·카드 넣기)이 늘 보임 · 이전 사본 작품은 저장소와 주고받지 않음(원래 작품 열기 안내) · 다른 기기가 합치기로 쓰는 작품이면 합치기 켜기 안내",
+  "pub_date": "2026-11-18T23:33:21.001Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.51/Weblore_0.5.51_android.apk",
+  "sha256": "ec0fea638e19d3aa5158259e7228aad9b25ccd2e09759c854ba4c741487335cb",
+  "size": 25061376
 }
