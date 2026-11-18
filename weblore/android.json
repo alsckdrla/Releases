@@ -1,8 +1,8 @@
 {
-  "version": "0.5.47",
-  "notes": "할 일 목록이 하나로 (쓴 할 일 = 할 일 카드, 자동 추가 종류, 카드 넣기, 완료 표시) · 지도에는 고른 카드만 (카드 넣기 창, 지도에서 빼기 = 카드는 그대로) · 모든 카드 창",
-  "pub_date": "2026-11-18T04:14:43.248Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.47/Weblore_0.5.47_android.apk",
-  "sha256": "39e3b55d30c403645ebaa1b9876b07ef1c19bd9fc578fc837710a6242168ce82",
-  "size": 24979460
+  "version": "0.5.48",
+  "notes": "NAS 서버 실시간 동기화 (NAS 도커에 Weblore 서버 · 고치면 1~2초 안에 다른 기기로) · 저장소 왼쪽 아래 ↑ 올리기 · ↓ 내리기 (GitHub 등은 자동으로 주고받지 않음) · 보드 카드 너비 끌어서 바꾸기",
+  "pub_date": "2026-11-18T05:54:46.517Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.48/Weblore_0.5.48_android.apk",
+  "sha256": "32b5c3a6bfcbd36b5e14032821aa5bd40369b2de853618ae7c340e1a36b9768b",
+  "size": 25023752
 }

@@ -1,11 +1,11 @@
 {
-  "version": "0.5.47",
-  "notes": "할 일 목록이 하나로 (쓴 할 일 = 할 일 카드, 자동 추가 종류, 카드 넣기, 완료 표시) · 지도에는 고른 카드만 (카드 넣기 창, 지도에서 빼기 = 카드는 그대로) · 모든 카드 창",
-  "pub_date": "2026-11-18T04:14:43.248Z",
+  "version": "0.5.48",
+  "notes": "NAS 서버 실시간 동기화 (NAS 도커에 Weblore 서버 · 고치면 1~2초 안에 다른 기기로) · 저장소 왼쪽 아래 ↑ 올리기 · ↓ 내리기 (GitHub 등은 자동으로 주고받지 않음) · 보드 카드 너비 끌어서 바꾸기",
+  "pub_date": "2026-11-18T05:54:46.517Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdmRSRTVJVjdUWUxUcHI5RXcwL1pjbUxQWUtEdEtSYkhIQjZPdkkzaDB4SENlVkpqU1MySHEyMFhPc21TL0dDbWVHRkVRenhPM3BUaG1WeFVYMURDYXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTc1MjYzCWZpbGU6V2VibG9yZV8wLjUuNDdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS40NwpWWEpvZmtxSWtqYjFhcWI4dUhkT0RuTTVPZUwrYXUvbVd3c2ZMeGxYT0hRZDUxY0NEUDBncWJTazVvaWFDWm5HWGhoaEtDcEZsb0lZbW51TjY5UVZBQT09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.47/Weblore_0.5.47_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdlRoZm83bllocUE3TWx6UG1SbjFENm9nUitaWVF4MVY0OUlsQXBtOTlxVkhkVWVzT3NUZVZLMFVLYlZpZzZQczJ5WjgrZGZWQjk5Y25TSENhVGdVM3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTgxMjY1CWZpbGU6V2VibG9yZV8wLjUuNDhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS40OAo1TFZtNW44akNhZWhCNFZKaTNkR1FHSkVxSzBhM2p3TTVYdjludnlHNXdBUUFNQmxiS0UrdGg1L05pdTkxcHcxR2ZXc2ljeXYyWVNLcm5ONmRaNVRDQT09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.48/Weblore_0.5.48_x64-setup.exe"
     }
   }
 }
