@@ -1,8 +1,8 @@
 {
-  "version": "0.5.51",
-  "notes": "안드로이드: 뒤로/앞으로 단추를 위 줄 오른쪽 끝에, 창이 뜨면 왼쪽 메뉴 다시 숨김, 지도 위쪽(도구·카드 넣기)이 늘 보임 · 이전 사본 작품은 저장소와 주고받지 않음(원래 작품 열기 안내) · 다른 기기가 합치기로 쓰는 작품이면 합치기 켜기 안내",
-  "pub_date": "2026-11-18T23:33:21.001Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.51/Weblore_0.5.51_android.apk",
-  "sha256": "ec0fea638e19d3aa5158259e7228aad9b25ccd2e09759c854ba4c741487335cb",
-  "size": 25061376
+  "version": "0.5.52",
+  "notes": "화면 오른쪽 위에 ↶ 되돌리기 · ↷ 다시 하기 단추 (이 기기에서 고친 것) · ‹ › 뒤로/앞으로를 PC 에서도 오른쪽 위로",
+  "pub_date": "2026-11-18T23:50:44.067Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.52/Weblore_0.5.52_android.apk",
+  "sha256": "37e8f0be3dca1be20c95193c296a9cce27ac3035f8e63ff55b87cbc14f77a529",
+  "size": 25061380
 }

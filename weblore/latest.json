@@ -1,11 +1,11 @@
 {
-  "version": "0.5.51",
-  "notes": "안드로이드: 뒤로/앞으로 단추를 위 줄 오른쪽 끝에, 창이 뜨면 왼쪽 메뉴 다시 숨김, 지도 위쪽(도구·카드 넣기)이 늘 보임 · 이전 사본 작품은 저장소와 주고받지 않음(원래 작품 열기 안내) · 다른 기기가 합치기로 쓰는 작품이면 합치기 켜기 안내",
-  "pub_date": "2026-11-18T23:33:21.001Z",
+  "version": "0.5.52",
+  "notes": "화면 오른쪽 위에 ↶ 되돌리기 · ↷ 다시 하기 단추 (이 기기에서 고친 것) · ‹ › 뒤로/앞으로를 PC 에서도 오른쪽 위로",
+  "pub_date": "2026-11-18T23:50:44.067Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdmFDamYxd05DdHlKSEJrWXlhV29jak12Q3hjOU5RVFRpOFNZUmp1SEpsd2EybjlWcjF3K0dpb1RPV3F2cHRFREFra1dvcFYwNmM2ZTU1K0VBclh4d0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQ0NzgwCWZpbGU6V2VibG9yZV8wLjUuNTFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS41MQp3RldTTkx1b0lKNXZiMVVMc2Uvd24yWDBnUHhUdkc5K3V2N0FRYld0V0pia2pSS2ZzNUtMN0tweUZBZmxSYnhNdzBpTUpTR1hFdjN2Q09LNXpqd0VEdz09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.51/Weblore_0.5.51_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdmJYclcxQjFlUlJrdFVIWmZuZ0RnRVBHYW9kd0lhMWh1dWVNcHVSOHYxTXBwZENTeFNaK1hLdjNpdEQ4cXZjRlB5MkVWNklTbXFGL0xHQzdhV3BHZXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDQ1ODI2CWZpbGU6V2VibG9yZV8wLjUuNTJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS41MgppNmdod3oySUYvcCtuakZuaUtCdm0wU1dJZG5PSTNOSSs2c1ZRTFlQcS8wdTArUFJLZmhjZGZnMjIwczI1RHBHNmtpVVU3RFFZdnp6Q1RUK2ZYV05BZz09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.52/Weblore_0.5.52_x64-setup.exe"
     }
   }
 }
