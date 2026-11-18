@@ -1,8 +1,8 @@
 {
-  "version": "0.5.45",
-  "notes": "뒤로 · 앞으로 단추를 잘 보이게 · 휴대폰: 두 손가락 두 번 톡톡 = 뒤로, 세 번(또는 세 손가락 톡) = 앞으로",
-  "pub_date": "2026-11-17T19:26:57.315Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.45/Weblore_0.5.45_android.apk",
-  "sha256": "087d47777a1981b2875bc0fff6ef025ed4f0c93d91061acd806f0fe85bc58137",
-  "size": 24964996
+  "version": "0.5.46",
+  "notes": "저장소: 쓰기를 멈추면 30초 뒤 보내기(기본) · 정말 바뀐 것만 셈 · 보낼 것 없으면 단추 옅게 · 저장소 것을 묻지 않고 받고 이 기기 것은 사본으로",
+  "pub_date": "2026-11-18T01:44:48.407Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.46/Weblore_0.5.46_android.apk",
+  "sha256": "6dd3448a7461099facae459acf2279aac0780c7f5ebe75d60924f26ad92ff5d6",
+  "size": 24975364
 }

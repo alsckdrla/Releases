@@ -1,11 +1,11 @@
 {
-  "version": "0.5.45",
-  "notes": "뒤로 · 앞으로 단추를 잘 보이게 · 휴대폰: 두 손가락 두 번 톡톡 = 뒤로, 세 번(또는 세 손가락 톡) = 앞으로",
-  "pub_date": "2026-11-17T19:26:57.315Z",
+  "version": "0.5.46",
+  "notes": "저장소: 쓰기를 멈추면 30초 뒤 보내기(기본) · 정말 바뀐 것만 셈 · 보낼 것 없으면 단추 옅게 · 저장소 것을 묻지 않고 받고 이 기기 것은 사본으로",
+  "pub_date": "2026-11-18T01:44:48.407Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdmFzSG1VSFVFdVYxZ0hQb0tjQkdIRmRTMEhMelNBbWVKZWVaVEZ6MzFRUUV4bSs3OHQ4N0tFUUxTZmRVemZHV0w0b05pcHRPeGxKemtzazQ2MlJOQlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTQzNTk4CWZpbGU6V2VibG9yZV8wLjUuNDVfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS40NQpRc0hyN1pwaTdIa1JhRk5UZXoyTlV2NHZsbndERGpCQTB1eFE1ZE92QnhtbGFqUHVxMS82dXZ5bk9qTHEzbk9kUnRKa3Rlc2I0SzlDTlAxa0hoU2RDZz09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.45/Weblore_0.5.45_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdmF4R3VpZmhlTHFMRVdWeXAwMGRtTDhjVGhWaUdxQ1QwUGNIa0orVE1LZUhTZGhjUnp3R3Jjc2FEcTc1SVExRmdkMm5laFRXV1EwQzJueWVEYUpCU3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTY2MjczCWZpbGU6V2VibG9yZV8wLjUuNDZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS40NgpINTJXb2hvR0daWXJaNVBiY2RQLzFoYzZkd1lWQnY4V2cyeGpsZzNLOXRlS21kdXBkZWg0Z2p5Vjg2cnFjRm5TUG1mdjkrQzRXc3lXczNhNDF5ZG5CZz09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.46/Weblore_0.5.46_x64-setup.exe"
     }
   }
 }
