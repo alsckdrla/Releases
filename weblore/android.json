@@ -1,8 +1,8 @@
 {
-  "version": "0.5.49",
-  "notes": "NAS 서버 열쇠 나누기: 작품마다 고치기 · 보기만 · 없음 (보기만 작품은 받기만, 고치기 막힘, 왼쪽 아래 '보기만')",
-  "pub_date": "2026-11-18T06:40:55.574Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.49/Weblore_0.5.49_android.apk",
-  "sha256": "5fda8bd639acedb6969832b5c9695cb485cb615d30e86432d970603e32639bd6",
-  "size": 25021836
+  "version": "0.5.50",
+  "notes": "앱 안에서 NAS 서버 열쇠 확인 · 게스트 열쇠 만들기(이 작품 보기만/고치기) · 저장소 종류를 바꾸면 주소 칸 비우기 · 서버 주소 확인",
+  "pub_date": "2026-11-18T07:00:40.340Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.50/Weblore_0.5.50_android.apk",
+  "sha256": "808d3b2aa1a0bdffd2bc1bc7c090ee580016070abd9a9c422bbc6ded530438b5",
+  "size": 25051648
 }

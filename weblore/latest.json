@@ -1,11 +1,11 @@
 {
-  "version": "0.5.49",
-  "notes": "NAS 서버 열쇠 나누기: 작품마다 고치기 · 보기만 · 없음 (보기만 작품은 받기만, 고치기 막힘, 왼쪽 아래 '보기만')",
-  "pub_date": "2026-11-18T06:40:55.574Z",
+  "version": "0.5.50",
+  "notes": "앱 안에서 NAS 서버 열쇠 확인 · 게스트 열쇠 만들기(이 작품 보기만/고치기) · 저장소 종류를 바꾸면 주소 칸 비우기 · 서버 주소 확인",
+  "pub_date": "2026-11-18T07:00:40.340Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdlI2aktTbWMxSVk0WW12blNCMUQ1L1pxOXZRTXN6RmNMUWp3bkdvODBmbVZkdmd4bkdwc1VOV0lmV3RsWEhObnpHd1hmcFBEWXQrMkVSMXJlSWx2UGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTg0MDM5CWZpbGU6V2VibG9yZV8wLjUuNDlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS40OQpBWmFlZm1wRy9tMDFGTDVaNXdMM1B0aE1tQXk4Q1p3Ly9vMWZVNTFoSG5HTzFLL3YyaSs5RytyQ05NSno4TXZsL1MrdjlFSlVxWk5wNC9GV094ZlRDZz09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.49/Weblore_0.5.49_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdlV6endYWHJ5VW1RUTh5OU5jMlJQNUQ4d1htd2RTRE9FMEFmNWUwQitPTHJQeFIzWDBBdHM4a3ZJRDBjdHpqcUlpK2xaLzlSM3N2bkpXemZueEMyUlE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTg1MjI0CWZpbGU6V2VibG9yZV8wLjUuNTBfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS41MApaSFJsMzhjSmtQdVlmMFJNanZzNiswcE1iOWJzeGJMamcvTWR3VlpyVy82SnRVNU9TelN5Z3hIUkpHelR5cVNWeXpXSjZqbDI3b0JYZC9TN3g2NFJCdz09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.50/Weblore_0.5.50_x64-setup.exe"
     }
   }
 }
