@@ -1,11 +1,11 @@
 {
-  "version": "0.5.46",
-  "notes": "저장소: 쓰기를 멈추면 30초 뒤 보내기(기본) · 정말 바뀐 것만 셈 · 보낼 것 없으면 단추 옅게 · 저장소 것을 묻지 않고 받고 이 기기 것은 사본으로",
-  "pub_date": "2026-11-18T01:44:48.407Z",
+  "version": "0.5.47",
+  "notes": "할 일 목록이 하나로 (쓴 할 일 = 할 일 카드, 자동 추가 종류, 카드 넣기, 완료 표시) · 지도에는 고른 카드만 (카드 넣기 창, 지도에서 빼기 = 카드는 그대로) · 모든 카드 창",
+  "pub_date": "2026-11-18T04:14:43.248Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdmF4R3VpZmhlTHFMRVdWeXAwMGRtTDhjVGhWaUdxQ1QwUGNIa0orVE1LZUhTZGhjUnp3R3Jjc2FEcTc1SVExRmdkMm5laFRXV1EwQzJueWVEYUpCU3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTY2MjczCWZpbGU6V2VibG9yZV8wLjUuNDZfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS40NgpINTJXb2hvR0daWXJaNVBiY2RQLzFoYzZkd1lWQnY4V2cyeGpsZzNLOXRlS21kdXBkZWg0Z2p5Vjg2cnFjRm5TUG1mdjkrQzRXc3lXczNhNDF5ZG5CZz09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.46/Weblore_0.5.46_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdmRSRTVJVjdUWUxUcHI5RXcwL1pjbUxQWUtEdEtSYkhIQjZPdkkzaDB4SENlVkpqU1MySHEyMFhPc21TL0dDbWVHRkVRenhPM3BUaG1WeFVYMURDYXd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTc1MjYzCWZpbGU6V2VibG9yZV8wLjUuNDdfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS40NwpWWEpvZmtxSWtqYjFhcWI4dUhkT0RuTTVPZUwrYXUvbVd3c2ZMeGxYT0hRZDUxY0NEUDBncWJTazVvaWFDWm5HWGhoaEtDcEZsb0lZbW51TjY5UVZBQT09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.47/Weblore_0.5.47_x64-setup.exe"
     }
   }
 }

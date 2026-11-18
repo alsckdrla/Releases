@@ -1,8 +1,8 @@
 {
-  "version": "0.5.46",
-  "notes": "저장소: 쓰기를 멈추면 30초 뒤 보내기(기본) · 정말 바뀐 것만 셈 · 보낼 것 없으면 단추 옅게 · 저장소 것을 묻지 않고 받고 이 기기 것은 사본으로",
-  "pub_date": "2026-11-18T01:44:48.407Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.46/Weblore_0.5.46_android.apk",
-  "sha256": "6dd3448a7461099facae459acf2279aac0780c7f5ebe75d60924f26ad92ff5d6",
-  "size": 24975364
+  "version": "0.5.47",
+  "notes": "할 일 목록이 하나로 (쓴 할 일 = 할 일 카드, 자동 추가 종류, 카드 넣기, 완료 표시) · 지도에는 고른 카드만 (카드 넣기 창, 지도에서 빼기 = 카드는 그대로) · 모든 카드 창",
+  "pub_date": "2026-11-18T04:14:43.248Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.47/Weblore_0.5.47_android.apk",
+  "sha256": "39e3b55d30c403645ebaa1b9876b07ef1c19bd9fc578fc837710a6242168ce82",
+  "size": 24979460
 }
