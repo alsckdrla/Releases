@@ -1,9 +1,9 @@
 {
-  "code": 6,
-  "version": "0.1.6",
-  "notes": "새 ㅅ·ㅆ·ㅈ·ㅊ·ㅉ 모양(둥근 끝도), 난이도 버튼 하나(어른 메뉴 아래), 뒤로 키, 메뉴 정리, 올가미로 고르면 바로 들어 올리기·한꺼번에 버리기, 따라쓰기 도글이 얼굴 동그라미·크레파스, 낱말 띄어 놓아도 읽기, 모래놀이 바다 친구 버튼·문어·공기방울 등",
-  "pub_date": "2026-11-18T03:32:02+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.6/DogleDogle_0.1.6_test.apk",
-  "sha256": "497f92edc252c0eff1e915b25a0c5f5ce79845645458dae85a6682d457a98641",
-  "size": 168059914
+  "code": 7,
+  "version": "0.1.7",
+  "notes": "모래놀이: 바다생물 자국이 손가락 자국처럼 실제로 패임, 잠깐 놓았다 옮겨도 자국 남음, 작은 파도는 자국을 지우지 않고 파도 버튼만 지움",
+  "pub_date": "2026-11-18T04:08:30+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.7/DogleDogle_0.1.7_test.apk",
+  "sha256": "ba014508135e05353b2937bc4fbb5990dd0613e4db45001a7c9a88bcc02b17c3",
+  "size": 146684962
 }
