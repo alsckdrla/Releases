@@ -1,11 +1,11 @@
 {
-  "version": "0.5.48",
-  "notes": "NAS 서버 실시간 동기화 (NAS 도커에 Weblore 서버 · 고치면 1~2초 안에 다른 기기로) · 저장소 왼쪽 아래 ↑ 올리기 · ↓ 내리기 (GitHub 등은 자동으로 주고받지 않음) · 보드 카드 너비 끌어서 바꾸기",
-  "pub_date": "2026-11-18T05:54:46.517Z",
+  "version": "0.5.49",
+  "notes": "NAS 서버 열쇠 나누기: 작품마다 고치기 · 보기만 · 없음 (보기만 작품은 받기만, 고치기 막힘, 왼쪽 아래 '보기만')",
+  "pub_date": "2026-11-18T06:40:55.574Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdlRoZm83bllocUE3TWx6UG1SbjFENm9nUitaWVF4MVY0OUlsQXBtOTlxVkhkVWVzT3NUZVZLMFVLYlZpZzZQczJ5WjgrZGZWQjk5Y25TSENhVGdVM3dRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTgxMjY1CWZpbGU6V2VibG9yZV8wLjUuNDhfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS40OAo1TFZtNW44akNhZWhCNFZKaTNkR1FHSkVxSzBhM2p3TTVYdjludnlHNXdBUUFNQmxiS0UrdGg1L05pdTkxcHcxR2ZXc2ljeXYyWVNLcm5ONmRaNVRDQT09Cg==",
-      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.48/Weblore_0.5.48_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRTTIrR0pGZjRBdlI2aktTbWMxSVk0WW12blNCMUQ1L1pxOXZRTXN6RmNMUWp3bkdvODBmbVZkdmd4bkdwc1VOV0lmV3RsWEhObnpHd1hmcFBEWXQrMkVSMXJlSWx2UGdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0OTg0MDM5CWZpbGU6V2VibG9yZV8wLjUuNDlfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNS40OQpBWmFlZm1wRy9tMDFGTDVaNXdMM1B0aE1tQXk4Q1p3Ly9vMWZVNTFoSG5HTzFLL3YyaSs5RytyQ05NSno4TXZsL1MrdjlFSlVxWk5wNC9GV094ZlRDZz09Cg==",
+      "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.49/Weblore_0.5.49_x64-setup.exe"
     }
   }
 }

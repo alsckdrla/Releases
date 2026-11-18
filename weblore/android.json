@@ -1,8 +1,8 @@
 {
-  "version": "0.5.48",
-  "notes": "NAS 서버 실시간 동기화 (NAS 도커에 Weblore 서버 · 고치면 1~2초 안에 다른 기기로) · 저장소 왼쪽 아래 ↑ 올리기 · ↓ 내리기 (GitHub 등은 자동으로 주고받지 않음) · 보드 카드 너비 끌어서 바꾸기",
-  "pub_date": "2026-11-18T05:54:46.517Z",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.48/Weblore_0.5.48_android.apk",
-  "sha256": "32b5c3a6bfcbd36b5e14032821aa5bd40369b2de853618ae7c340e1a36b9768b",
-  "size": 25023752
+  "version": "0.5.49",
+  "notes": "NAS 서버 열쇠 나누기: 작품마다 고치기 · 보기만 · 없음 (보기만 작품은 받기만, 고치기 막힘, 왼쪽 아래 '보기만')",
+  "pub_date": "2026-11-18T06:40:55.574Z",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/weblore-v0.5.49/Weblore_0.5.49_android.apk",
+  "sha256": "5fda8bd639acedb6969832b5c9695cb485cb615d30e86432d970603e32639bd6",
+  "size": 25021836
 }
