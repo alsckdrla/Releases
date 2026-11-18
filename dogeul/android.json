@@ -1,9 +1,9 @@
 {
-  "code": 5,
-  "version": "0.1.5",
-  "notes": "모래놀이: 바다 친구 켜기/끄기 버튼, 가끔 나오는 문어, 밖에서 들어올 때 흙둑 위로 넘어옴, 선 그리기 더 부드럽게, 여러 손가락 지울 때 첫 자국 안 남음, 파도 물속 공기방울·거품",
-  "pub_date": "2026-11-18T01:16:00+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.5/DogleDogle_0.1.5_test.apk",
-  "sha256": "7a409b91f3db5198b1513207a60deb5a8e2ef581efd45098c525d295259f60e5",
-  "size": 147674293
+  "code": 6,
+  "version": "0.1.6",
+  "notes": "새 ㅅ·ㅆ·ㅈ·ㅊ·ㅉ 모양(둥근 끝도), 난이도 버튼 하나(어른 메뉴 아래), 뒤로 키, 메뉴 정리, 올가미로 고르면 바로 들어 올리기·한꺼번에 버리기, 따라쓰기 도글이 얼굴 동그라미·크레파스, 낱말 띄어 놓아도 읽기, 모래놀이 바다 친구 버튼·문어·공기방울 등",
+  "pub_date": "2026-11-18T03:32:02+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.6/DogleDogle_0.1.6_test.apk",
+  "sha256": "497f92edc252c0eff1e915b25a0c5f5ce79845645458dae85a6682d457a98641",
+  "size": 168059914
 }
