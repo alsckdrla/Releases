@@ -1,9 +1,9 @@
 {
-  "code": 11,
-  "version": "0.1.11",
-  "notes": "메뉴 창: 처음으로·학습·놀이·자유 놀이 항상 보임, 모래놀이에서는 필요 없는 줄을 빼고 빈칸 없이 정리",
-  "pub_date": "2026-11-19T17:08:56+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.11/DogleDogle_0.1.11_test.apk",
-  "sha256": "e939aed7863335d40a1fb271c9e6dfdda36f5aac6cff3df7138fba1d4b22f856",
-  "size": 154765003
+  "code": 12,
+  "version": "0.1.12",
+  "notes": "유리 낙서(김 서린 유리 닦기·입김) 추가, 도글이 대사 다양하게, 시작 화면 도글이 반응 7가지, 따라 쓰기 보통에도 도글이 안내·글자 재질 버튼, 하이파이브·종이컵 바탕이 책상 모양대로, 글자 찾기 진한 바탕, 놀이 시간 '몇 시까지' 제한",
+  "pub_date": "2026-11-19T18:29:25+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.12/DogleDogle_0.1.12_test.apk",
+  "sha256": "4d49c1f0d4b421377bfd0fc35e9c744205783c5fcfc03a282aa7b8c8e3e83b04",
+  "size": 154882399
 }
