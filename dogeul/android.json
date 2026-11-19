@@ -1,9 +1,9 @@
 {
-  "code": 8,
-  "version": "0.1.8",
-  "notes": "새 시작 화면: 배경·로고·버튼 그림, 누르면 쏙 들어가는 버튼, 새 글꼴(SUIT·나눔스퀘어라운드), 어른 메뉴·난이도 버튼 그림",
-  "pub_date": "2026-11-18T08:20:44+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.8/DogleDogle_0.1.8_test.apk",
-  "sha256": "f0c98d02438040343d0c4f680ee88b1b954f2cbb86b92f6a71f387fe8cbb64d4",
-  "size": 154711395
+  "code": 9,
+  "version": "0.1.9",
+  "notes": "새 구성: 학습(글자 만들기·따라 쓰기·산수), 놀이(하이파이브·종이컵·바구니·글자 찾기 준비 중·모양 만들기). 산수 새로 추가, 난이도별로 달라지는 글자 만들기·따라 쓰기(어려움은 모래에 혼자 쓰기)",
+  "pub_date": "2026-11-19T02:05:12+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.9/DogleDogle_0.1.9_test.apk",
+  "sha256": "fd011b24345225e5967c205613b9a217719ccee2d8f3f1e11d64b56cb903a725",
+  "size": 154738755
 }
