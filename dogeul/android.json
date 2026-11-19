@@ -1,9 +1,9 @@
 {
-  "code": 13,
-  "version": "0.1.13",
-  "notes": "따라 쓰기 어려움: 낱말을 말해 주고 20초 뒤 글자 힌트, 글자 찾기: 입체 판 위에 찾을 글자, 유리 낙서: 선명한 물방울(뒤 풍경이 비침)·부드러운 손자국",
-  "pub_date": "2026-11-19T19:52:41+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.13/DogleDogle_0.1.13_test.apk",
-  "sha256": "15ad7c74760e0c32b154630ea1cf31e7407868549bd6b0fb23e6fcd72fc3cb1f",
-  "size": 154906287
+  "code": 14,
+  "version": "0.1.14",
+  "notes": "유리 낙서 물방울: 위는 어둡고 아래로 갈수록 밝게(빛 굴절), 반짝임은 그대로",
+  "pub_date": "2026-11-19T20:11:47+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.14/DogleDogle_0.1.14_test.apk",
+  "sha256": "29ec80eb407f2503eefcabb7b5449d9e37a82a7036cb5f93fbdb915380b4d8d3",
+  "size": 154908919
 }
