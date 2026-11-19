@@ -1,9 +1,9 @@
 {
-  "code": 9,
-  "version": "0.1.9",
-  "notes": "새 구성: 학습(글자 만들기·따라 쓰기·산수), 놀이(하이파이브·종이컵·바구니·글자 찾기 준비 중·모양 만들기). 산수 새로 추가, 난이도별로 달라지는 글자 만들기·따라 쓰기(어려움은 모래에 혼자 쓰기)",
-  "pub_date": "2026-11-19T02:05:12+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.9/DogleDogle_0.1.9_test.apk",
-  "sha256": "fd011b24345225e5967c205613b9a217719ccee2d8f3f1e11d64b56cb903a725",
-  "size": 154738755
+  "code": 10,
+  "version": "0.1.10",
+  "notes": "글자 찾기 시작(가운데 글자를 보고 둘레에서 찾기: 쉬움 자모, 보통 한 글자, 어려움 두 글자 단어), 하이파이브·종이컵 난이도별 색(쉬움만 색 구분)",
+  "pub_date": "2026-11-19T13:31:57+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.10/DogleDogle_0.1.10_test.apk",
+  "sha256": "d5c075e9fa63a36b54e6b05d72baf23734bf5409331844bdf6e3936532e7eb4b",
+  "size": 154766399
 }
