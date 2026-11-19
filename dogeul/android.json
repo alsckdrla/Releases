@@ -1,9 +1,9 @@
 {
-  "code": 10,
-  "version": "0.1.10",
-  "notes": "글자 찾기 시작(가운데 글자를 보고 둘레에서 찾기: 쉬움 자모, 보통 한 글자, 어려움 두 글자 단어), 하이파이브·종이컵 난이도별 색(쉬움만 색 구분)",
-  "pub_date": "2026-11-19T13:31:57+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.10/DogleDogle_0.1.10_test.apk",
-  "sha256": "d5c075e9fa63a36b54e6b05d72baf23734bf5409331844bdf6e3936532e7eb4b",
-  "size": 154766399
+  "code": 11,
+  "version": "0.1.11",
+  "notes": "메뉴 창: 처음으로·학습·놀이·자유 놀이 항상 보임, 모래놀이에서는 필요 없는 줄을 빼고 빈칸 없이 정리",
+  "pub_date": "2026-11-19T17:08:56+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.11/DogleDogle_0.1.11_test.apk",
+  "sha256": "e939aed7863335d40a1fb271c9e6dfdda36f5aac6cff3df7138fba1d4b22f856",
+  "size": 154765003
 }
