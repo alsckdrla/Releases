@@ -1,9 +1,9 @@
 {
-  "code": 15,
-  "version": "0.1.15",
-  "notes": "유리 낙서: 물방울 두 배, 실시간으로 흘러내리는 물방울과 연한 흘러내린 자국, 입김이 뭉게뭉게 퍼지는 애니메이션",
-  "pub_date": "2026-11-20T02:35:59+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.15/DogleDogle_0.1.15_test.apk",
-  "sha256": "a44ef9b021ef4a06f90b31b378996162448d8ebfffa06a6619d15ce49f2b3d3c",
-  "size": 154921767
+  "code": 16,
+  "version": "0.1.16",
+  "notes": "유리 낙서: 흘러내리는 물방울마다 크기·속도·멈춤·흐르는 길이가 다르고, 지그재그 대신 부드럽게 기울며 흘러내림",
+  "pub_date": "2026-11-20T03:02:31+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.16/DogleDogle_0.1.16_test.apk",
+  "sha256": "e6dbdb708e3fc708d2773f8cca771bbfc56d6bfca96fe0f82eaa5901d8bfca57",
+  "size": 154919595
 }
