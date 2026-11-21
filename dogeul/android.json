@@ -1,9 +1,9 @@
 {
-  "code": 18,
-  "version": "0.1.18",
-  "notes": "유리 낙서: 두 손가락으로 문지르면 모래놀이처럼 그 자리에 바로 김이 다시 서림(입김 덩어리 효과)",
-  "pub_date": "2026-11-20T03:49:55+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.18/DogleDogle_0.1.18_test.apk",
-  "sha256": "e4d4def1417a62396fbccb8ce92e34b99a308f8e4bf05304300f01d0f3fa9cf4",
-  "size": 154928803
+  "code": 19,
+  "version": "0.1.19",
+  "notes": "처음 안내에 '톡 하면 이름' 단계와 건너뛰기 버튼, 오픈소스 라이선스 화면. 유리 낙서: 풍경 그림 7장, 자연스러운 물방울, 뭉게뭉게 천천히 도는 입김. 모래놀이 바다 친구 끄기/적게/보통/많이. 모래·유리 손가락 소리, 새 시작 화면.",
+  "pub_date": "2026-11-21T20:10:33+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.19/DogleDogle_0.1.19_test.apk",
+  "sha256": "1ea69469552bfb7f29a09562a7051ca4331e673ad1b06eacb7df80685a5304e6",
+  "size": 158994657
 }
