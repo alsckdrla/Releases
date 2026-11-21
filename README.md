@@ -11,6 +11,6 @@
 <!-- dogeul -->
 ## 도글도글 (테스트)
 
-- 안드로이드 태블릿 처음 설치: [테스트 0.1.18 APK](https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.18/DogleDogle_0.1.18_test.apk) (태블릿에서 받아 열기 → "이 출처 허용" → 설치)
+- 안드로이드 태블릿 처음 설치: [테스트 0.1.19 APK](https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.19/DogleDogle_0.1.19_test.apk) (태블릿에서 받아 열기 → "이 출처 허용" → 설치)
 - 설치한 뒤에는 앱이 시작 화면에서 새 판을 알려 주고 스스로 업데이트합니다 (`dogeul/android.json`)
 <!-- /dogeul -->
