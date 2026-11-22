@@ -1,9 +1,9 @@
 {
-  "code": 7,
-  "version": "0.1.7",
-  "notes": "툴바 추가(✂ 편집, 🎤 음성, 123 숫자판, ⚙ 설정, ⌄ 숨기기). 편집 패널: 선택·복사·잘라내기·붙여넣기·실행 취소·다시 실행, 화살표·줄 처음/끝",
-  "pub_date": "2026-11-22T05:00:09+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.7/mcKeypad_0.1.7.apk",
-  "sha256": "d9056ded305ce80ece22eef166ac9c024fffbb25b8be85f9599d0156fe404f23",
-  "size": 1855394
+  "code": 8,
+  "version": "0.1.8",
+  "notes": "이모티콘·클립보드·단축어 패널, ★ 단축어 치환(예: ㅇㄴ→안녕하세요), 툴바 편집(버튼 길게 누르기), 한 손 모드(✋), 진동 세기 설정",
+  "pub_date": "2026-11-22T05:13:03+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.8/mcKeypad_0.1.8.apk",
+  "sha256": "40ab60307293e3d82095b3debf80792f3c441460f56b90552260a8deb2469cf8",
+  "size": 1896850
 }
