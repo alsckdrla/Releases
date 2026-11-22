@@ -1,9 +1,9 @@
 {
-  "code": 2,
-  "version": "0.1.2",
-  "notes": "한글 입력: 천지인 모음(ㅣㆍㅡ), 받침·겹받침, 획 단위 지우기, 확정 키. 키판은 임시(자음 길게 누르면 ㅋㄹㅌㅍㅎㅊㅁ)",
-  "pub_date": "2026-11-22T02:58:43+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.2/mcKeypad_0.1.2.apk",
-  "sha256": "65230ccd9afcafbfe9f02ae1b4ae7ece97c6bf10f671491aab0c4de00b06c701",
-  "size": 1813838
+  "code": 3,
+  "version": "0.1.3",
+  "notes": "실제 키판: 개량형 천지인 5열(자음 위로 밀기 ㅋㄹㅌㅍㅎㅊㅁ, 아래로 ㄲㄸㅃㅆㅉ), 영문 QWERTY, 기호·숫자판, 키 미리보기, 진동, ⌫·←→ 누르고 있으면 반복",
+  "pub_date": "2026-11-22T03:36:42+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.3/mcKeypad_0.1.3.apk",
+  "sha256": "5a208d9912b8fc0d44b57f6aa2218006487f8d96a75801fa8d1eb2a1a544cd17",
+  "size": 1830926
 }
