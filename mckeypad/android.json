@@ -1,9 +1,9 @@
 {
-  "code": 5,
-  "version": "0.1.5",
-  "notes": "음성 입력 고르기: 앱 화면에서 Google / Samsung 등 쓸 음성 입력을 선택",
-  "pub_date": "2026-11-22T04:27:30+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.5/mcKeypad_0.1.5.apk",
-  "sha256": "dceb5a13160ff91b25ea690c540b81bee91b87fa47797492728b43febd5a1b13",
-  "size": 1843518
+  "code": 6,
+  "version": "0.1.6",
+  "notes": "커서 트랙패드: 스페이스를 길게 누르거나 밀어서 커서 이동(위아래는 줄 이동). ⌫를 왼쪽으로 밀면 단어 단위 선택 후 삭제",
+  "pub_date": "2026-11-22T04:33:04+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.6/mcKeypad_0.1.6.apk",
+  "sha256": "295c1efcaf8469657e405c3a3049d4124e3d168e401797a19e9585f3fd2b2803",
+  "size": 1847966
 }
