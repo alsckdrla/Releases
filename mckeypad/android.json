@@ -1,9 +1,9 @@
 {
-  "code": 4,
-  "version": "0.1.4",
-  "notes": "키 높이 조절(앱 화면 슬라이더), 음성 입력: 한/영 키를 위로 밀면 Google 음성 입력으로 바뀌고 끝나면 돌아옴",
-  "pub_date": "2026-11-22T04:18:02+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.4/mcKeypad_0.1.4.apk",
-  "sha256": "a6110680b835d463bbb16b6256a17f284aad02b1d1f8f2a46a81c50c4aa7dcbf",
-  "size": 1840258
+  "code": 5,
+  "version": "0.1.5",
+  "notes": "음성 입력 고르기: 앱 화면에서 Google / Samsung 등 쓸 음성 입력을 선택",
+  "pub_date": "2026-11-22T04:27:30+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.5/mcKeypad_0.1.5.apk",
+  "sha256": "dceb5a13160ff91b25ea690c540b81bee91b87fa47797492728b43febd5a1b13",
+  "size": 1843518
 }
