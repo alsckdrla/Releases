@@ -1,9 +1,9 @@
 {
-  "code": 12,
-  "version": "0.1.12",
-  "notes": "자음 두세 번 누르기(ㄱ→ㅋ→ㄲ) 추가, 기본 켜짐. 앱 화면 '자음 입력'에서 끌 수 있음",
-  "pub_date": "2026-11-22T08:54:21+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.12/mcKeypad_0.1.12.apk",
-  "sha256": "b063db879275bbe0ddf44f5401a466c47fe000292ef12f11280239c4fec8bff3",
-  "size": 1902650
+  "code": 13,
+  "version": "0.1.13",
+  "notes": "하단 버튼과 키가 겹치던 문제 수정(화면 회전 뒤 등), 모음을 지우면 받침으로 돌아옴(시그 → 식)",
+  "pub_date": "2026-11-22T09:58:59+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.13/mcKeypad_0.1.13.apk",
+  "sha256": "bc609ff516123cb7d4c06be21bd13a091afe97babdac053525f116d03fb95a87",
+  "size": 1903722
 }
