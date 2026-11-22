@@ -1,9 +1,9 @@
 {
-  "code": 9,
-  "version": "0.1.9",
-  "notes": "한글 키 위치 변경(한/영·확정·↵·123·띄어쓰기·.), ㅣ ㅡ 밀어서 모음(ㅏ ㅓ ㅗ ㅜ), . 오른쪽 밀기 = -",
-  "pub_date": "2026-11-22T07:57:40+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.9/mcKeypad_0.1.9.apk",
-  "sha256": "de5f86c85f1dfb57ba8d71ce2890d90bce42b9f7dc33aea6a0045c05abd8bf9d",
-  "size": 1899134
+  "code": 10,
+  "version": "0.1.10",
+  "notes": "한글 키 위치 바로잡음: 오른쪽 열 ⌫·↵·띄어쓰기, 아래 줄 한/영·123·ㅇ·.·확정",
+  "pub_date": "2026-11-22T08:18:34+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.10/mcKeypad_0.1.10.apk",
+  "sha256": "cf03146e4634ccb4d26ef8bccbcb74ab90d50f2a25c0fc3b8bd1c5dd81c4b8b8",
+  "size": 1899022
 }
