@@ -1,9 +1,9 @@
 {
-  "code": 21,
-  "version": "0.1.21",
-  "notes": "유리 낙서: 흘러내리는 물방울이 만나는 물방울과 합쳐지며 커지고, 닦은 자리 작은 물방울은 작은 것부터 천천히 증발해요.",
-  "pub_date": "2026-11-22T11:58:24+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.21/DogleDogle_0.1.21_test.apk",
-  "sha256": "c8bebae94ffee11d77fc54be3ed535ac32dea1d09e700878edadbfa7972c32f5",
-  "size": 159051841
+  "code": 22,
+  "version": "0.1.22",
+  "notes": "새 시작 화면 버튼, 유리 풍경 '바다와 해' 추가. 유리 낙서: 물방울 모양·기울기가 다양해지고, 흘러내리는 물줄기가 구불구불 부드럽게 내려가며 자국은 시간이 지나면 다시 김으로 덮여요.",
+  "pub_date": "2026-11-22T15:40:37+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.22/DogleDogle_0.1.22_test.apk",
+  "sha256": "b1c51be4dfebd45398224ae05c3cc1f4d43dad6f6917e58dd35c54fddf29a163",
+  "size": 160360936
 }
