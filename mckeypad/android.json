@@ -1,9 +1,9 @@
 {
-  "code": 6,
-  "version": "0.1.6",
-  "notes": "커서 트랙패드: 스페이스를 길게 누르거나 밀어서 커서 이동(위아래는 줄 이동). ⌫를 왼쪽으로 밀면 단어 단위 선택 후 삭제",
-  "pub_date": "2026-11-22T04:33:04+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.6/mcKeypad_0.1.6.apk",
-  "sha256": "295c1efcaf8469657e405c3a3049d4124e3d168e401797a19e9585f3fd2b2803",
-  "size": 1847966
+  "code": 7,
+  "version": "0.1.7",
+  "notes": "툴바 추가(✂ 편집, 🎤 음성, 123 숫자판, ⚙ 설정, ⌄ 숨기기). 편집 패널: 선택·복사·잘라내기·붙여넣기·실행 취소·다시 실행, 화살표·줄 처음/끝",
+  "pub_date": "2026-11-22T05:00:09+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.7/mcKeypad_0.1.7.apk",
+  "sha256": "d9056ded305ce80ece22eef166ac9c024fffbb25b8be85f9599d0156fe404f23",
+  "size": 1855394
 }
