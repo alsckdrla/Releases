@@ -1,9 +1,9 @@
 {
-  "code": 11,
-  "version": "0.1.11",
-  "notes": "점·띄어쓰기 자리 바꿈, 키 미리보기 끄기 설정, 삼성 음성 입력도 찾도록 수정",
-  "pub_date": "2026-11-22T08:36:38+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.11/mcKeypad_0.1.11.apk",
-  "sha256": "e9b399b1edd3e9c9c0a3fcac5e06b05ea57e93aeba2e0d03349dbedd44528727",
-  "size": 1900122
+  "code": 12,
+  "version": "0.1.12",
+  "notes": "자음 두세 번 누르기(ㄱ→ㅋ→ㄲ) 추가, 기본 켜짐. 앱 화면 '자음 입력'에서 끌 수 있음",
+  "pub_date": "2026-11-22T08:54:21+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.12/mcKeypad_0.1.12.apk",
+  "sha256": "b063db879275bbe0ddf44f5401a466c47fe000292ef12f11280239c4fec8bff3",
+  "size": 1902650
 }
