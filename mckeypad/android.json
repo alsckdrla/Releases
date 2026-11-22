@@ -1,9 +1,9 @@
 {
-  "code": 16,
-  "version": "0.1.16",
-  "notes": "띄어쓰기 두 번 = 마침표 추가(기본 켜짐, 앱 화면 '입력'에서 끄기)",
-  "pub_date": "2026-11-22T10:20:45+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.16/mcKeypad_0.1.16.apk",
-  "sha256": "553aabf15a4a58f9546a5acdefc3d7f465d0ec5ed82beb0afa97a46c21da1cc8",
-  "size": 1908834
+  "code": 17,
+  "version": "0.1.17",
+  "notes": "모음을 같은 방향으로 두 번 밀면 쌍모음(ㅜㅜ→ㅠ, ㅏㅏ→ㅑ, ㅓㅓ→ㅕ, ㅗㅗ→ㅛ)",
+  "pub_date": "2026-11-22T10:31:29+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.17/mcKeypad_0.1.17.apk",
+  "sha256": "47deae10ecd6272cebda5e2a9937e273582c1ae8eee90d7e5668ca3589acaa6a",
+  "size": 1908898
 }
