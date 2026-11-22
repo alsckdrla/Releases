@@ -1,9 +1,9 @@
 {
-  "code": 20,
-  "version": "0.1.20",
-  "notes": "유리 낙서: 손가락으로 닦은 자리 가장자리를 따라 아주 작은 물방울이 맺혀요.",
-  "pub_date": "2026-11-22T11:25:20+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.20/DogleDogle_0.1.20_test.apk",
-  "sha256": "0ad141005cc4c04d71b1802bc080bf589621c6e4e26b3df518ef36d89116000d",
-  "size": 159006961
+  "code": 21,
+  "version": "0.1.21",
+  "notes": "유리 낙서: 흘러내리는 물방울이 만나는 물방울과 합쳐지며 커지고, 닦은 자리 작은 물방울은 작은 것부터 천천히 증발해요.",
+  "pub_date": "2026-11-22T11:58:24+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.21/DogleDogle_0.1.21_test.apk",
+  "sha256": "c8bebae94ffee11d77fc54be3ed535ac32dea1d09e700878edadbfa7972c32f5",
+  "size": 159051841
 }
