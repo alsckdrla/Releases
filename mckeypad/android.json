@@ -1,0 +1,9 @@
+{
+  "code": 1,
+  "version": "0.1.1",
+  "notes": "첫 판: 키보드 등록, 시험용 한 줄(가 · space · ⌫ · ↵ · 🌐), 앱 화면에서 켜기·선택·자동 업데이트",
+  "pub_date": "2026-11-22T02:49:23+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.1/mcKeypad_0.1.1.apk",
+  "sha256": "0ff8e6256b6ce4d5ecdb36e3d4f924611c37ea3dc8f9f01764858845fbd0dd01",
+  "size": 1806894
+}
