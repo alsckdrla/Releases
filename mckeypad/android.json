@@ -1,9 +1,9 @@
 {
-  "code": 13,
-  "version": "0.1.13",
-  "notes": "하단 버튼과 키가 겹치던 문제 수정(화면 회전 뒤 등), 모음을 지우면 받침으로 돌아옴(시그 → 식)",
-  "pub_date": "2026-11-22T09:58:59+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.13/mcKeypad_0.1.13.apk",
-  "sha256": "bc609ff516123cb7d4c06be21bd13a091afe97babdac053525f116d03fb95a87",
-  "size": 1903722
+  "code": 14,
+  "version": "0.1.14",
+  "notes": "음성 입력을 '음성 인식 창' 방식으로 바꿈(키보드가 꺼지지 않음). 예전 방식은 앱 화면에서 고를 수 있음",
+  "pub_date": "2026-11-22T10:05:09+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.14/mcKeypad_0.1.14.apk",
+  "sha256": "91f69678dd355469c559c5705e5ee7e47476a502b1f672011ed59822689c835a",
+  "size": 1906842
 }
