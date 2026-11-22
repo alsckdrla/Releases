@@ -1,9 +1,9 @@
 {
-  "code": 18,
-  "version": "0.1.18",
-  "notes": "숫자 줄(1~0) 추가, 띄어쓰기 좌우 밀기 = 한/영, 꾹 누르기로 쌍자음·쌍모음",
-  "pub_date": "2026-11-22T11:30:43+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.18/mcKeypad_0.1.18.apk",
-  "sha256": "76681039ed151783c811e76217a24eb0898f810b23e021dc2a37f2aa906a2158",
-  "size": 1913714
+  "code": 19,
+  "version": "0.1.19",
+  "notes": "꾹 누르기 시간을 앱 화면 '입력'에서 ms로 직접 입력(150~2000, 기본 450)",
+  "pub_date": "2026-11-22T12:05:15+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.19/mcKeypad_0.1.19.apk",
+  "sha256": "8b2268545101cdcbf338e1257b31a8ea7ba687751f2c35a947a227c2b4661827",
+  "size": 1917326
 }
