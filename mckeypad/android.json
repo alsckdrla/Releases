@@ -1,9 +1,9 @@
 {
-  "code": 19,
-  "version": "0.1.19",
-  "notes": "꾹 누르기 시간을 앱 화면 '입력'에서 ms로 직접 입력(150~2000, 기본 450)",
-  "pub_date": "2026-11-22T12:05:15+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.19/mcKeypad_0.1.19.apk",
-  "sha256": "8b2268545101cdcbf338e1257b31a8ea7ba687751f2c35a947a227c2b4661827",
-  "size": 1917326
+  "code": 20,
+  "version": "0.1.20",
+  "notes": "음성 입력: 키보드 안에서 계속 듣기(말을 멈춰도 안 끊김, ⏸로 멈춤). 처음 한 번 마이크 권한 허용 필요",
+  "pub_date": "2026-11-22T14:34:36+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.20/mcKeypad_0.1.20.apk",
+  "sha256": "2feab92ed907d901f67bb12fb55e8086c88177509d424729aa4574fb9e5d2738",
+  "size": 1931222
 }
