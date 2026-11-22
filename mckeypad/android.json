@@ -1,9 +1,9 @@
 {
-  "code": 8,
-  "version": "0.1.8",
-  "notes": "이모티콘·클립보드·단축어 패널, ★ 단축어 치환(예: ㅇㄴ→안녕하세요), 툴바 편집(버튼 길게 누르기), 한 손 모드(✋), 진동 세기 설정",
-  "pub_date": "2026-11-22T05:13:03+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.8/mcKeypad_0.1.8.apk",
-  "sha256": "40ab60307293e3d82095b3debf80792f3c441460f56b90552260a8deb2469cf8",
-  "size": 1896850
+  "code": 9,
+  "version": "0.1.9",
+  "notes": "한글 키 위치 변경(한/영·확정·↵·123·띄어쓰기·.), ㅣ ㅡ 밀어서 모음(ㅏ ㅓ ㅗ ㅜ), . 오른쪽 밀기 = -",
+  "pub_date": "2026-11-22T07:57:40+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.9/mcKeypad_0.1.9.apk",
+  "sha256": "de5f86c85f1dfb57ba8d71ce2890d90bce42b9f7dc33aea6a0045c05abd8bf9d",
+  "size": 1899134
 }
