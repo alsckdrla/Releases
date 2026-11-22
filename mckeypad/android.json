@@ -1,9 +1,9 @@
 {
-  "code": 15,
-  "version": "0.1.15",
-  "notes": "아래 줄 123 · 한/영 순서로 바꿈",
-  "pub_date": "2026-11-22T10:12:56+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.15/mcKeypad_0.1.15.apk",
-  "sha256": "38956692dd4fd621f61a9c70fc56dc4d32f592e54b2114e8e53147b1232b5707",
-  "size": 1906898
+  "code": 16,
+  "version": "0.1.16",
+  "notes": "띄어쓰기 두 번 = 마침표 추가(기본 켜짐, 앱 화면 '입력'에서 끄기)",
+  "pub_date": "2026-11-22T10:20:45+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.16/mcKeypad_0.1.16.apk",
+  "sha256": "553aabf15a4a58f9546a5acdefc3d7f465d0ec5ed82beb0afa97a46c21da1cc8",
+  "size": 1908834
 }
