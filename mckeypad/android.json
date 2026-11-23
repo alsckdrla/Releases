@@ -1,9 +1,9 @@
 {
-  "code": 24,
-  "version": "0.1.24",
-  "notes": "이메일 칸 영문 키판에 @ 키(. 왼쪽), 한 손 모드 툴바 아이콘을 새 모양으로",
-  "pub_date": "2026-11-23T02:26:56+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.24/mcKeypad_0.1.24.apk",
-  "sha256": "246440c7870dfadd7cab4dda48b90f03546ede017b2a4149a68915f167c9fdce",
-  "size": 1937826
+  "code": 25,
+  "version": "0.1.25",
+  "notes": "음성 입력 화면: 지우기·스페이스바·엔터 버튼을 오른쪽에 세로로 정리",
+  "pub_date": "2026-11-23T10:29:00+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.25/mcKeypad_0.1.25.apk",
+  "sha256": "fab57cb6c31d6b1c5990462ec428e7103525a2e3f4001bf68f693d6915d5b1ea",
+  "size": 1938034
 }
