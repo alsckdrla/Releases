@@ -1,9 +1,9 @@
 {
-  "code": 23,
-  "version": "0.1.23",
-  "notes": "단축어 관리·툴바 편집 화면에 '설정 화면으로' 버튼",
-  "pub_date": "2026-11-23T02:18:40+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.23/mcKeypad_0.1.23.apk",
-  "sha256": "2a19f4f4410a120436ac50a266e857eb182c285c1324c62424059979c5127bd0",
-  "size": 1937166
+  "code": 24,
+  "version": "0.1.24",
+  "notes": "이메일 칸 영문 키판에 @ 키(. 왼쪽), 한 손 모드 툴바 아이콘을 새 모양으로",
+  "pub_date": "2026-11-23T02:26:56+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.24/mcKeypad_0.1.24.apk",
+  "sha256": "246440c7870dfadd7cab4dda48b90f03546ede017b2a4149a68915f167c9fdce",
+  "size": 1937826
 }
