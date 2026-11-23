@@ -1,9 +1,9 @@
 {
-  "code": 22,
-  "version": "0.1.22",
-  "notes": "새 시작 화면 버튼, 유리 풍경 '바다와 해' 추가. 유리 낙서: 물방울 모양·기울기가 다양해지고, 흘러내리는 물줄기가 구불구불 부드럽게 내려가며 자국은 시간이 지나면 다시 김으로 덮여요.",
-  "pub_date": "2026-11-22T15:40:37+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.22/DogleDogle_0.1.22_test.apk",
-  "sha256": "b1c51be4dfebd45398224ae05c3cc1f4d43dad6f6917e58dd35c54fddf29a163",
-  "size": 160360936
+  "code": 23,
+  "version": "0.1.23",
+  "notes": "유리 낙서: 입김이 솜뭉치 대신 연기처럼 둥글고 부드럽게 퍼져요(가운데는 하얗고 가장자리는 흩어지며 안에 휘감긴 결).",
+  "pub_date": "2026-11-23T02:55:05+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.23/DogleDogle_0.1.23_test.apk",
+  "sha256": "f60417781c94d42d3d2079a947afb0dbc5c42f68aa6146d56a94b9a48795bf43",
+  "size": 160361644
 }
