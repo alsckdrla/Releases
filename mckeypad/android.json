@@ -1,9 +1,9 @@
 {
-  "code": 20,
-  "version": "0.1.20",
-  "notes": "음성 입력: 키보드 안에서 계속 듣기(말을 멈춰도 안 끊김, ⏸로 멈춤). 처음 한 번 마이크 권한 허용 필요",
-  "pub_date": "2026-11-22T14:34:36+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.20/mcKeypad_0.1.20.apk",
-  "sha256": "2feab92ed907d901f67bb12fb55e8086c88177509d424729aa4574fb9e5d2738",
-  "size": 1931222
+  "code": 21,
+  "version": "0.1.21",
+  "notes": "복사하면 툴바에 복사한 글이 떠서 누르면 바로 붙여넣기(한 번 붙여 넣으면 사라짐), 음성 입력 화면에 이동(엔터) 버튼",
+  "pub_date": "2026-11-23T01:45:36+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.21/mcKeypad_0.1.21.apk",
+  "sha256": "a0f09c98e7ab1cd588b5063539fcab6be0b062da5f43279e7584b55bfbf64f54",
+  "size": 1932450
 }
