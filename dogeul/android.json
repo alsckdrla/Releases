@@ -1,9 +1,9 @@
 {
-  "code": 24,
-  "version": "0.1.24",
-  "notes": "따라 쓰기가 새로워졌어요: 하얀 글자 위 회색 점선과 시작 번호·화살표, 연필이 쓰는 법을 보여 주고, 손가락으로 그으면 진한 색깔 선이 그려져요. 도글이가 옆에서 지켜봐요.",
-  "pub_date": "2026-11-23T15:58:50+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.24/DogleDogle_0.1.24_test.apk",
-  "sha256": "255c6f7acaf51d53c100eb7f461ff8b429d48a796440a66e176fd87d8f21ac16",
-  "size": 160399160
+  "code": 25,
+  "version": "0.1.25",
+  "notes": "켤 때 검은 화면 대신 흰 바탕에 도글도글 로고가 나타나 살짝 커졌다가 사라져요. 태블릿 화면 회전 잠금을 켜 둬도 위아래로 뒤집으면 화면이 따라 돌아요(세로로는 안 바뀜).",
+  "pub_date": "2026-11-24T02:54:13+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.25/DogleDogle_0.1.25_test.apk",
+  "sha256": "c584ce6776b80c2f9f2266ed3ad48b16f0973cf13dab65115b420f6acdbbd36d",
+  "size": 160445820
 }
