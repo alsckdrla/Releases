@@ -1,9 +1,9 @@
 {
-  "code": 25,
-  "version": "0.1.25",
-  "notes": "켤 때 검은 화면 대신 흰 바탕에 도글도글 로고가 나타나 살짝 커졌다가 사라져요. 태블릿 화면 회전 잠금을 켜 둬도 위아래로 뒤집으면 화면이 따라 돌아요(세로로는 안 바뀜).",
-  "pub_date": "2026-11-24T02:54:13+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.25/DogleDogle_0.1.25_test.apk",
-  "sha256": "c584ce6776b80c2f9f2266ed3ad48b16f0973cf13dab65115b420f6acdbbd36d",
-  "size": 160445820
+  "code": 26,
+  "version": "0.1.26",
+  "notes": "시작 화면 도글이가 찰흙 인형처럼 예뻐지고 좌우로 산책해요. 따라 쓰기에서 도글이 5마리가 획 둘레에 모여 구경하다 다음 획으로 우르르 달려가요. 획·글자·낱말을 완성하면 별·반짝이·방울이 팡 터져요. 모래놀이·유리 낙서에서 쓴 한글 낱자를 알아보고 축하해요(어른 메뉴 더보기에서 끌 수 있어요). 모래·유리 긋는 소리를 줄였어요.",
+  "pub_date": "2026-11-24T13:22:10+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.26/DogleDogle_0.1.26_test.apk",
+  "sha256": "ad0983a143118d468ff3f2226ce842dfc4bdbd6743c3ae8477c6d4b48a846479",
+  "size": 160588948
 }
