@@ -1,9 +1,9 @@
 {
-  "code": 28,
-  "version": "0.1.28",
-  "notes": "클립보드 자동으로 지우기 옵션(기본 꺼짐), 고정 항목 위로 묶어 표시, 꾹 누르기 기본 200ms, 단축어를 치면 ★ 없이 툴바에 문구 표시",
-  "pub_date": "2026-11-24T01:57:25+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.28/mcKeypad_0.1.28.apk",
-  "sha256": "f04bd7d9d2a1f9eaec52dc0cf7d425d977249b0561e9f2b26615e9e407abce3d",
-  "size": 1950650
+  "code": 29,
+  "version": "0.1.29",
+  "notes": "클립보드 항목 꾹 누르기 = 골라 지우기 (전체 선택·해제, 선택 삭제)",
+  "pub_date": "2026-11-24T04:49:00+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.29/mcKeypad_0.1.29.apk",
+  "sha256": "3a1d95820c918475483b2422fc9fe98d0358feb8ea353aebba218b9abb484a20",
+  "size": 1953118
 }
