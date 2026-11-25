@@ -1,9 +1,9 @@
 {
-  "code": 34,
-  "version": "0.1.34",
-  "notes": "클립보드: 보안 폴더 안에서도 mcKeypad를 쓰면 보안 폴더에서 복사한 글은 그 안에만 따로 모이고 밖에서는 안 보임. 보안 폴더 안 클립보드에서 일반 목록도 를 켜면 밖에서 복사한 글도 같이 보임.",
-  "pub_date": "2026-11-25T08:49:35+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.34/mcKeypad_0.1.34.apk",
-  "sha256": "4c0b82fbef8de92bdb4ae50dda67b47e689137058d4848f2c68576d8a7769097",
-  "size": 1971126
+  "code": 35,
+  "version": "0.1.35",
+  "notes": "클립보드: 보안 폴더에서 복사한 글이 안 모이면 보안 폴더 설정에서 클립보드 허용을 켜라는 안내 추가. 키보드 하나가 보안 폴더 앱까지 받는 폰에서 놓친 복사도 보안 폴더 목록으로.",
+  "pub_date": "2026-11-25T09:39:50+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.35/mcKeypad_0.1.35.apk",
+  "sha256": "2dc576ddac2ee27e5a19d2eb2b938d2b90e86e82a5221e94c07bf9b1e56187af",
+  "size": 1971298
 }
