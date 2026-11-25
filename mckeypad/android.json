@@ -1,9 +1,9 @@
 {
-  "code": 29,
-  "version": "0.1.29",
-  "notes": "클립보드 항목 꾹 누르기 = 골라 지우기 (전체 선택·해제, 선택 삭제)",
-  "pub_date": "2026-11-24T04:49:00+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.29/mcKeypad_0.1.29.apk",
-  "sha256": "3a1d95820c918475483b2422fc9fe98d0358feb8ea353aebba218b9abb484a20",
-  "size": 1953118
+  "code": 30,
+  "version": "0.1.30",
+  "notes": "같은 키로 글자가 바뀔 때(ㅇ→ㅁ) 단축어 미리보기도 바로 바뀌도록 수정",
+  "pub_date": "2026-11-25T01:06:42+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.30/mcKeypad_0.1.30.apk",
+  "sha256": "b9f32d7b9215c4b12f5caa3d17aea405d856f8e253c0da96b50523480f244b77",
+  "size": 1953282
 }
