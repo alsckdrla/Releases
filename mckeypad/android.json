@@ -1,9 +1,9 @@
 {
-  "code": 31,
-  "version": "0.1.31",
-  "notes": "밀어쓰기 문자 설정: 키보드 미리보기에서 키를 골라 설정, 다른 키와 겹치는 글자 경고",
-  "pub_date": "2026-11-25T01:35:00+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.31/mcKeypad_0.1.31.apk",
-  "sha256": "c52948ad825ac6655dff6ccacb1df41f1c7a200d76492955fe0ae8ddbfa1a263",
-  "size": 1957894
+  "code": 32,
+  "version": "0.1.32",
+  "notes": "확정 키 대신 ? 키, 모든 자판(기호 포함)의 키 자리 바꾸기와 밀어쓰기 설정",
+  "pub_date": "2026-11-25T03:25:58+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.32/mcKeypad_0.1.32.apk",
+  "sha256": "c02648308cc3e8a5e342ad99e479a680d5f1ff60cf5fa706c756e5683f56cd83",
+  "size": 1965846
 }
