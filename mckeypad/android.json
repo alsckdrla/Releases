@@ -1,9 +1,9 @@
 {
-  "code": 32,
-  "version": "0.1.32",
-  "notes": "확정 키 대신 ? 키, 모든 자판(기호 포함)의 키 자리 바꾸기와 밀어쓰기 설정",
-  "pub_date": "2026-11-25T03:25:58+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.32/mcKeypad_0.1.32.apk",
-  "sha256": "c02648308cc3e8a5e342ad99e479a680d5f1ff60cf5fa706c756e5683f56cd83",
-  "size": 1965846
+  "code": 33,
+  "version": "0.1.33",
+  "notes": "스페이스 꾹 눌러 위아래로 끌면 윗줄/아랫줄로, 줄이 없으면 맨 앞/맨 뒤로 커서 이동. 커서 이동 진동을 키 진동과 따로 설정(기본 약하게). ? 키 밀어쓰기 기본값: 위 세미콜론, 왼쪽 큰따옴표, 오른쪽 작은따옴표, 아래 콜론. 점 키 아래는 슬래시.",
+  "pub_date": "2026-11-25T05:35:23+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.33/mcKeypad_0.1.33.apk",
+  "sha256": "4431aded33acffdd1c65cf6275899c45fcf9a74fa358220756ca1c3b5dd63a33",
+  "size": 1968174
 }
