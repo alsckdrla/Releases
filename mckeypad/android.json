@@ -1,9 +1,9 @@
 {
-  "code": 38,
-  "version": "0.1.38",
-  "notes": "보안 폴더 클립보드 따로: 안에서는 안에서 복사한 글, 밖에서는 밖에서 복사한 글이 붙여넣기. 지우기 키 밀기: 왼쪽 오른쪽 단어 선택, 위 전체 선택, 아래 실행 취소(아래 후 왼쪽 더 취소, 오른쪽 다시 실행).",
-  "pub_date": "2026-11-26T03:26:05+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.38/mcKeypad_0.1.38.apk",
-  "sha256": "4b070e8c056058d007fdcf298583f971b8c59a7cfc082a7d74b71990dae81c27",
-  "size": 1982126
+  "code": 39,
+  "version": "0.1.39",
+  "notes": "두세 번 누르기로 받침이 되는 자음은 앞 글자 받침으로 붙음 (안 + ㅅ 두 번 = 않, 할 + ㄷ 두 번 = 핥). 음성 입력 화면에 . ? 버튼 추가.",
+  "pub_date": "2026-11-26T05:10:46+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.39/mcKeypad_0.1.39.apk",
+  "sha256": "3dabe69c846768f6220362986c9bdfb335e28819dc3ee6ac0a5aed7b6eb3d572",
+  "size": 1982798
 }
