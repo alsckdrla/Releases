@@ -18,6 +18,6 @@
 <!-- mckeypad -->
 ## mcKeypad (천지인 한글 키보드)
 
-- 안드로이드 휴대폰 처음 설치: [0.1.38 APK](https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.38/mcKeypad_0.1.38.apk) (휴대폰에서 받아 열기 → "이 출처 허용" → 설치 → 앱을 열어 키보드 켜기)
+- 안드로이드 휴대폰 처음 설치: [0.1.39 APK](https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.39/mcKeypad_0.1.39.apk) (휴대폰에서 받아 열기 → "이 출처 허용" → 설치 → 앱을 열어 키보드 켜기)
 - 설치한 뒤에는 앱 화면이 새 판을 알려 주고 스스로 업데이트합니다 (`mckeypad/android.json`)
 <!-- /mckeypad -->
