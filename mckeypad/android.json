@@ -1,9 +1,9 @@
 {
-  "code": 35,
-  "version": "0.1.35",
-  "notes": "클립보드: 보안 폴더에서 복사한 글이 안 모이면 보안 폴더 설정에서 클립보드 허용을 켜라는 안내 추가. 키보드 하나가 보안 폴더 앱까지 받는 폰에서 놓친 복사도 보안 폴더 목록으로.",
-  "pub_date": "2026-11-25T09:39:50+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.35/mcKeypad_0.1.35.apk",
-  "sha256": "2dc576ddac2ee27e5a19d2eb2b938d2b90e86e82a5221e94c07bf9b1e56187af",
-  "size": 1971298
+  "code": 36,
+  "version": "0.1.36",
+  "notes": "인증번호 자동 입력: 앱 화면에서 알림 접근을 허용하면 문자·카카오톡 알림톡 등 알림으로 온 인증번호를 빈 숫자 칸에 바로 입력, 다른 칸이면 툴바에 열쇠 표시로 띄움(누르면 입력). 번호는 3분 동안 메모리에만.",
+  "pub_date": "2026-11-26T01:22:42+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.36/mcKeypad_0.1.36.apk",
+  "sha256": "5a62add6c58b7bc0c0e41d32c89ac3dc5f0385fb72c0bd5038b9d1c853516238",
+  "size": 1978194
 }
