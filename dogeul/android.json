@@ -1,9 +1,9 @@
 {
-  "code": 26,
-  "version": "0.1.26",
-  "notes": "시작 화면 도글이가 찰흙 인형처럼 예뻐지고 좌우로 산책해요. 따라 쓰기에서 도글이 5마리가 획 둘레에 모여 구경하다 다음 획으로 우르르 달려가요. 획·글자·낱말을 완성하면 별·반짝이·방울이 팡 터져요. 모래놀이·유리 낙서에서 쓴 한글 낱자를 알아보고 축하해요(어른 메뉴 더보기에서 끌 수 있어요). 모래·유리 긋는 소리를 줄였어요.",
-  "pub_date": "2026-11-24T13:22:10+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.26/DogleDogle_0.1.26_test.apk",
-  "sha256": "ad0983a143118d468ff3f2226ce842dfc4bdbd6743c3ae8477c6d4b48a846479",
-  "size": 160588948
+  "code": 27,
+  "version": "0.1.27",
+  "notes": "따라 쓰기의 연필 미리 보기가 빨라졌어요. 유리 낙서의 입김이 더 빨리 사라져요.",
+  "pub_date": "2026-11-26T11:31:45+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.27/DogleDogle_0.1.27_test.apk",
+  "sha256": "d7f402a9b6fc273be18a67aca2b980de2c754227725c4a9d5c4cccea965eb847",
+  "size": 160589152
 }
