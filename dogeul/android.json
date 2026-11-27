@@ -1,9 +1,9 @@
 {
-  "code": 27,
-  "version": "0.1.27",
-  "notes": "따라 쓰기의 연필 미리 보기가 빨라졌어요. 유리 낙서의 입김이 더 빨리 사라져요.",
-  "pub_date": "2026-11-26T11:31:45+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.27/DogleDogle_0.1.27_test.apk",
-  "sha256": "d7f402a9b6fc273be18a67aca2b980de2c754227725c4a9d5c4cccea965eb847",
-  "size": 160589152
+  "code": 28,
+  "version": "0.1.28",
+  "notes": "시작 화면이 새 디자인으로 바뀌었어요(로고가 통통, 카드가 살랑, 누르면 별·방울이 팡). 이름이 배우기·놀기·낙서하기로 바뀌고, 자물쇠 밑 글씨는 설정이에요.",
+  "pub_date": "2026-11-27T09:49:17+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.28/DogleDogle_0.1.28_test.apk",
+  "sha256": "d930f9be554b7d9b34fcc15bb661884f33e5bc1c0a3f3da55abc84dc542bcc6e",
+  "size": 161268739
 }
