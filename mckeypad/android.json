@@ -1,9 +1,9 @@
 {
-  "code": 41,
-  "version": "0.1.41",
-  "notes": "왼쪽 위 커서 키(←, →)를 아래로 밀면 완성: 커서는 그대로 두고 쓰던 글자만 닫음. 밀어쓰기 문자 설정에서 완성이라고 쓰면 다른 키에도 넣을 수 있음.",
-  "pub_date": "2026-11-28T04:11:13+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.41/mcKeypad_0.1.41.apk",
-  "sha256": "93f64dc7a590b8800efc49fffc1c592496c959004aa85b5fc71e3b1313b4d1e7",
-  "size": 1982986
+  "code": 42,
+  "version": "0.1.42",
+  "notes": "지우기 키 밀기 추가: 좌우로 단어 선택 후 아래로 더 밀면 삭제, 위로 더 밀면 복사. 위로 민 뒤 왼쪽은 전체 삭제, 오른쪽은 전체 복사. 손 떼기 전 키 위에 표시.",
+  "pub_date": "2026-11-28T06:31:31+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.42/mcKeypad_0.1.42.apk",
+  "sha256": "f5b27709ba558c31c1c02d7a30f4608d57b2e92647a6e04fd8e6bc200bb7cc52",
+  "size": 1983446
 }
