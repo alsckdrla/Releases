@@ -1,9 +1,9 @@
 {
-  "code": 28,
-  "version": "0.1.28",
-  "notes": "시작 화면이 새 디자인으로 바뀌었어요(로고가 통통, 카드가 살랑, 누르면 별·방울이 팡). 이름이 배우기·놀기·낙서하기로 바뀌고, 자물쇠 밑 글씨는 설정이에요.",
-  "pub_date": "2026-11-27T09:49:17+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.28/DogleDogle_0.1.28_test.apk",
-  "sha256": "d930f9be554b7d9b34fcc15bb661884f33e5bc1c0a3f3da55abc84dc542bcc6e",
-  "size": 161268739
+  "code": 29,
+  "version": "0.1.29",
+  "notes": "따라 쓰기 낱말이 학교안심 받아쓰기체가 짠 음절 그대로 나와요. 어려움은 회색 글자를 보고 쓰고, 글자 보기 버튼으로 다시 볼 수 있어요. 큰 도글이가 그림으로 바뀌었고(눈동자가 엉뚱하게 굴러가요), 작은 도글이 머리털도 새 모양이에요. 산수·모양 만들기는 뺐어요.",
+  "pub_date": "2026-11-28T11:30:34+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/dogeul-v0.1.29/DogleDogle_0.1.29_test.apk",
+  "sha256": "d69a5dd705f9c3ce13dd41b8f8a4e4587f00dd3675e8d7692759c217baccdcc5",
+  "size": 169270755
 }
