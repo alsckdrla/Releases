@@ -1,9 +1,9 @@
 {
-  "code": 40,
-  "version": "0.1.40",
-  "notes": "한글 키판 오른쪽 열 순서 변경: 지우기, 마침표, 물음표, 엔터 (엔터는 맨 아래 오른쪽).",
-  "pub_date": "2026-11-26T09:21:49+00:00",
-  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.40/mcKeypad_0.1.40.apk",
-  "sha256": "6332695d88b318cb86f9fd2f20c11e27a945458d7168d3a15c64d61d5491b02b",
-  "size": 1982882
+  "code": 41,
+  "version": "0.1.41",
+  "notes": "왼쪽 위 커서 키(←, →)를 아래로 밀면 완성: 커서는 그대로 두고 쓰던 글자만 닫음. 밀어쓰기 문자 설정에서 완성이라고 쓰면 다른 키에도 넣을 수 있음.",
+  "pub_date": "2026-11-28T04:11:13+00:00",
+  "url": "https://github.com/alsckdrla/Releases/releases/download/mckeypad-v0.1.41/mcKeypad_0.1.41.apk",
+  "sha256": "93f64dc7a590b8800efc49fffc1c592496c959004aa85b5fc71e3b1313b4d1e7",
+  "size": 1982986
 }
